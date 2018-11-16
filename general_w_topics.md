@@ -7,34 +7,32 @@
 | [00:10:13][blizzcon_2018](https://youtu.be/rn7WB3455yw?t=613)| BlizzCon 2018: Diablo Immortal, Warcraft 3: Reforged |
 | [00:44:27][path_of_exile](https://youtu.be/rn7WB3455yw?t=2667)| Path of Exile tuleb PS4-le |
 | [00:46:28][pubg](https://youtu.be/rn7WB3455yw?t=2788)| PUBG tuleb PS4-le |
-| [00:47:50][microsoft_streamib](https://youtu.be/rn7WB3455yw?t=2870)| Microsoft streamib mitu tundi uusi m‰nge |
+| [00:47:50][microsoft_streamib](https://youtu.be/rn7WB3455yw?t=2870)| Microsoft streamib mitu tundi uusi m√§nge |
 | [00:48:27][ps_experience_2018](https://youtu.be/rn7WB3455yw?t=2907)| PS Experience ei toimu |
 | [00:49:17][the_forest](https://youtu.be/rn7WB3455yw?t=2957)| The Forest tuli PS4-le |
 | [00:50:04][beat_saber](https://youtu.be/rn7WB3455yw?t=3004)| Beat Saber tuleb PS4-le |
-| [00:50:53][dÈracinÈ](https://youtu.be/rn7WB3455yw?t=3053)| DÈracinÈ tuli PS VR-le |
-| [00:52:17][overkills_twd](https://youtu.be/rn7WB3455yw?t=3137)| OVERKILL's The Walking Dead tuli v‰lja |
-| [00:53:21][world_of_ff_maxima](https://youtu.be/rn7WB3455yw?t=3201)| World of Final Fantasy Maxima tuli v‰lja |
+| [00:50:53][d√©racin√©](https://youtu.be/rn7WB3455yw?t=3053)| D√©racin√© tuli PS VR-le |
+| [00:52:17][overkills_twd](https://youtu.be/rn7WB3455yw?t=3137)| OVERKILL's The Walking Dead tuli v√§lja |
+| [00:53:21][world_of_ff_maxima](https://youtu.be/rn7WB3455yw?t=3201)| World of Final Fantasy Maxima tuli v√§lja |
 | [00:53:52][r6_siege](https://youtu.be/rn7WB3455yw?t=3232)| Rainbow Six Siege tsenseeritakse |
 | [00:56:06][square_enix](https://youtu.be/rn7WB3455yw?t=3366)| Square Enix'i majandustulemused ja The Quiet Man |
 | [01:00:06][8bitdo](https://youtu.be/rn7WB3455yw?t=3606)| 8BitDo NESi ja SNESi puldi lisavidin |
-| [01:01:55][gris](https://youtu.be/rn7WB3455yw?t=3715)| Gris tuleb v‰lja |
-| [01:02:40][uudised](https://youtu.be/rn7WB3455yw?t=3760)| MƒNGUD |
+| [01:01:55][gris](https://youtu.be/rn7WB3455yw?t=3715)| Gris tuleb v√§lja |
+| [01:02:40][uudised](https://youtu.be/rn7WB3455yw?t=3760)| M√ÑNGUD |
 | [01:02:50][return_of_the_obra_dinn](https://youtu.be/rn7WB3455yw?t=3770)| Return of the Obra Dinn |
 | [01:11:44][diablo_iii](https://youtu.be/rn7WB3455yw?t=4306)| Diablo III Switchil |
 | [01:16:37][tetris_effekt](https://youtu.be/rn7WB3455yw?t=4597)| Tetris Effect |
 | [01:22:02][rdr_2](https://youtu.be/rn7WB3455yw?t=4922)| Read Dead Redemption 2 |
-| [01:00:06][wow_classic](https://youtu.be/rn7WB3455yw?t=)| World of Warcraft Classic |
-| [01:00:06][](https://youtu.be/rn7WB3455yw?t=6)|  |
-| [01:00:06][](https://youtu.be/rn7WB3455yw?t=6)|  |
-| [01:00:06][](https://youtu.be/rn7WB3455yw?t=6)|  |
-| [01:00:06][outro](https://youtu.be/rn7WB3455yw?t=6)| OUTRO |
+| [01:36:45][soodne](https://youtu.be/rn7WB3455yw?t=5805)| Soodsad m√§ngud |
+| [01:38:10][moo](https://youtu.be/rn7WB3455yw?t=5890)| M√§ngude√ñ√ñ tuleb |
+| [01:40:57][outro](https://youtu.be/rn7WB3455yw?t=6057)| OUTRO |
 
 # 2014
 ## #91 // 24/01/2014
 | aeg | teema |
 |-----|-------|
 | [00:05:34][intro](https://youtu.be/-oYklbJIxpM?t=334)| INTRO |
-| [00:09:34][rein_tais](https://youtu.be/-oYklbJIxpM?t=574)| Rein k¸lastas Taid, Mikromaksed p‰rismaailmas |
+| [00:09:34][rein_tais](https://youtu.be/-oYklbJIxpM?t=574)| Rein k√ºlastas Taid, Mikromaksed p√§rismaailmas |
 | [00:14:34][uudised](https://youtu.be/-oYklbJIxpM?t=874)| UUDISED |
 | [00:14:34][microsofti_reklaam](https://youtu.be/-oYklbJIxpM?t=874)| Microsoft maksab Youtube positiivse reklaami eest |
 | [00:18:23][steambox](https://youtu.be/-oYklbJIxpM?t=1103)| Steambox: Steam hakkab arvuteid tootma |
@@ -42,7 +40,7 @@
 | [00:27:28][ccs_trademark](https://youtu.be/-oYklbJIxpM?t=1628)| Candy Crush Saga trademark saaga |
 | [00:30:27][re_4](https://youtu.be/-oYklbJIxpM?t=1827)| RE:4 HD uusversioon |
 | [00:32:47][olli_olli](https://youtu.be/-oYklbJIxpM?t=1967)| Olli Olli |
-| [00:36:00][mangud](https://youtu.be/-oYklbJIxpM?t=2160)| MƒNGUD |
+| [00:36:00][mangud](https://youtu.be/-oYklbJIxpM?t=2160)| M√ÑNGUD |
 | [00:36:00][picmin_3](https://youtu.be/-oYklbJIxpM?t=2160)| Picmin 3 |
 | [00:41:41][zelda_a_link_between_worlds](https://youtu.be/-oYklbJIxpM?t=2501)| The Legend of Zelda: A Link Between Worlds |
 | [00:45:10][beyond_two_souls](https://youtu.be/-oYklbJIxpM?t=2710)| Beyond: Two Souls |
@@ -50,7 +48,7 @@
 | [00:51:46][plants_vs_zombies_2](https://youtu.be/-oYklbJIxpM?t=3106)| Plants vs Zombies 2 |
 | [00:55:08][rust](https://youtu.be/-oYklbJIxpM?t=3308)| Rust |
 | [00:59:26][early_alfa](https://youtu.be/-oYklbJIxpM?t=3566)| Early Alfa'de pealetung |
-| [01:02:21][soovitused_alla_5e](https://youtu.be/-oYklbJIxpM?t=3741)| Soovitused alla 5Ä |
+| [01:02:21][soovitused_alla_5e](https://youtu.be/-oYklbJIxpM?t=3741)| Soovitused alla 5‚Ç¨ |
 | [01:05:53][outro](https://youtu.be/-oYklbJIxpM?t=3953)| OUTRO |
 
 # 2012
