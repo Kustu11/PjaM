@@ -1,4 +1,27 @@
 #2018
+
+## #338 // 16/11/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:02][intro](https://youtu.be/UIIed3sGWWc?t=2)| INTRO |
+| [00:05:30][uudised](https://youtu.be/UIIed3sGWWc?t=330)| UUDISED |
+| [00:08:11][ps_pood](https://youtu.be/UIIed3sGWWc?t=491)| PS poes saab maksta Eesti krediitkaardiga |
+| [00:12:33][microsofti_uudised](https://youtu.be/UIIed3sGWWc?t=753)| Microsofti uudised: ostis 2 stuudiot, Game Pass'i uued mängud, klaviatuuri tugi |
+| [00:19:11][ea_remaster](https://youtu.be/UIIed3sGWWc?t=1151)| EA remasterdab C&C |
+| [00:25:39][thq_nordic](https://youtu.be/UIIed3sGWWc?t=1539)| THQ Nordic ostis stuudioid |
+| [00:28:11][narcos](https://youtu.be/UIIed3sGWWc?t=1691)| Narcos'st tuleb mäng välja |
+| [00:30:12][telltale](https://youtu.be/UIIed3sGWWc?t=1812)| Telltale'i mängud võetakse steamist maha |
+| [00:31:55][p_t](https://youtu.be/UIIed3sGWWc?t=1915)| Konami kustutab P.T. demosid |
+| [00:33:24][fallout_76](https://youtu.be/UIIed3sGWWc?t=2004)| Fallout 76 |
+| [00:38:31][valve](https://youtu.be/UIIed3sGWWc?t=2311)| Valve hakkab tegema VR peaseadmeid |
+| [00:41:24][moo](https://youtu.be/UIIed3sGWWc?t=2484)| Rein käis: MängudeÖÖ |
+| [00:46:25][mängud](https://youtu.be/UIIed3sGWWc?t=2785)| MÄNGUD |
+| [00:46:36][spyro_reignited_triology](https://youtu.be/UIIed3sGWWc?t=2796)| Spyro Reignited Triology |
+| [00:23:24][dont_starve_hamlet](https://youtu.be/UIIed3sGWWc?t=3204)| Don't Starve: Hamlet |
+| [00:59:49][rdr_2](https://youtu.be/UIIed3sGWWc?t=3589)| Read Dead Redemption 2 |
+| [01:14:29][soodne](https://youtu.be/UIIed3sGWWc?t=4469)| Soodsad mängud |
+| [01:15:38][outro](https://youtu.be/UIIed3sGWWc?t=4538)| OUTRO |
+
 ## #337 // 09/11/2018
 | aeg | teema |
 |-----|-------|
@@ -7,7 +30,7 @@
 | [00:10:13][blizzcon_2018](https://youtu.be/rn7WB3455yw?t=613)| BlizzCon 2018: Diablo Immortal, Warcraft 3: Reforged |
 | [00:44:27][path_of_exile](https://youtu.be/rn7WB3455yw?t=2667)| Path of Exile tuleb PS4-le |
 | [00:46:28][pubg](https://youtu.be/rn7WB3455yw?t=2788)| PUBG tuleb PS4-le |
-| [00:47:50][microsoft_streamib](https://youtu.be/rn7WB3455yw?t=2870)| Microsoft streamib mitu tundi uusi mänge |
+| [00:47:50][microsoft_stream](https://youtu.be/rn7WB3455yw?t=2870)| Microsoft streamib mitu tundi uusi mänge |
 | [00:48:27][ps_experience_2018](https://youtu.be/rn7WB3455yw?t=2907)| PS Experience ei toimu |
 | [00:49:17][the_forest](https://youtu.be/rn7WB3455yw?t=2957)| The Forest tuli PS4-le |
 | [00:50:04][beat_saber](https://youtu.be/rn7WB3455yw?t=3004)| Beat Saber tuleb PS4-le |
