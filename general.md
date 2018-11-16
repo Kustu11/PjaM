@@ -1,4 +1,27 @@
 #2018
+
+## #338 // 16/11/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:02](https://youtu.be/UIIed3sGWWc?t=2)| INTRO |
+| [00:05:30](https://youtu.be/UIIed3sGWWc?t=330)| UUDISED |
+| [00:08:11](https://youtu.be/UIIed3sGWWc?t=491)| PS poes saab maksta Eesti krediitkaardiga |
+| [00:12:33](https://youtu.be/UIIed3sGWWc?t=753)| Microsofti uudised: ostis 2 stuudiot, Game Pass'i uued mängud, klaviatuuri tugi |
+| [00:19:11](https://youtu.be/UIIed3sGWWc?t=1151)| EA remasterdab C&C |
+| [00:25:39](https://youtu.be/UIIed3sGWWc?t=1539)| THQ Nordic ostis stuudioid |
+| [00:28:11](https://youtu.be/UIIed3sGWWc?t=1691)| Narcos'st tuleb mäng välja |
+| [00:30:12](https://youtu.be/UIIed3sGWWc?t=1812)| Telltale'i mängud võetakse steamist maha |
+| [00:31:55](https://youtu.be/UIIed3sGWWc?t=1915)| Konami kustutab P.T. demosid |
+| [00:33:24](https://youtu.be/UIIed3sGWWc?t=2004)| Fallout 76 |
+| [00:38:31](https://youtu.be/UIIed3sGWWc?t=2311)| Valve hakkab tegema VR peaseadmeid |
+| [00:41:24](https://youtu.be/UIIed3sGWWc?t=2484)| Rein käis: MängudeÖÖ |
+| [00:46:25](https://youtu.be/UIIed3sGWWc?t=2785)| MÄNGUD |
+| [00:46:36](https://youtu.be/UIIed3sGWWc?t=2796)| Spyro Reignited Triology |
+| [00:23:24](https://youtu.be/UIIed3sGWWc?t=3204)| Don't Starve: Hamlet |
+| [00:59:49](https://youtu.be/UIIed3sGWWc?t=3589)| Read Dead Redemption 2 |
+| [01:14:29](https://youtu.be/UIIed3sGWWc?t=4469)| Soodsad mängud |
+| [01:15:38](https://youtu.be/UIIed3sGWWc?t=4538)| OUTRO |
+
 ## #337 // 09/11/2018
 | aeg | teema |
 |-----|-------|
@@ -52,9 +75,6 @@
 | [01:05:53](https://youtu.be/-oYklbJIxpM?t=3953)| OUTRO |
 
 # 2012
-
-
-
 ## #3 //  11/05/2012
 
 | aeg | teema | esitaja? quite irrelevant |
