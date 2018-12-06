@@ -1,5 +1,50 @@
 #2018
 
+## #340 // 30/11/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:07](https://youtu.be/zFwprGiA_KE?t=7)| INTRO |
+| [00:06:25](https://youtu.be/zFwprGiA_KE?t=385)| UUDISED |
+| [00:07:28](https://youtu.be/zFwprGiA_KE?t=448)| Read Dead Online |
+| [00:18:39](https://youtu.be/zFwprGiA_KE?t=1119)| Krüptoraha langeb, videokaardid odavnevad |
+| [00:24:23](https://youtu.be/zFwprGiA_KE?t=1463)| TGA-l kuulutatakse välja 10 uut videomängu |
+| [00:30:06](https://youtu.be/zFwprGiA_KE?t=1806)| Agent'i patenti ei uuendatud |
+| [00:33:06](https://youtu.be/zFwprGiA_KE?t=1986)| Fallout 76  |
+| [00:40:32](https://youtu.be/zFwprGiA_KE?t=2432)| Euro Truxk Simulator 2: Beyond the Baltic Sea tuleb välja |
+| [00:46:35](https://youtu.be/zFwprGiA_KE?t=2795)| MÄNGUD  |
+| [00:46:51](https://youtu.be/zFwprGiA_KE?t=2811)| Thronebreaker: The Witcher Tales |
+| [00:59:40](https://youtu.be/zFwprGiA_KE?t=3580)| Beat Saber |
+| [01:02:33](https://youtu.be/zFwprGiA_KE?t=3753)| Red Dead Redemption 2 |
+| [01:16:56](https://youtu.be/zFwprGiA_KE?t=4616)| Soodsad mängud |
+| [01:19:56](https://youtu.be/zFwprGiA_KE?t=4796)| OUTRO |
+
+
+## #339 // 23/11/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:05](https://youtu.be/FKkEYnD1pMo?t=5)| INTRO |
+| [00:04:32](https://youtu.be/FKkEYnD1pMo?t=272)| UUDISED |
+| [00:06:11](https://youtu.be/FKkEYnD1pMo?t=371)| Fallout 76 |
+| [00:11:57](https://youtu.be/FKkEYnD1pMo?t=717)| Mängude odavnemine ajas |
+| [00:21:12](https://youtu.be/FKkEYnD1pMo?t=1272)| Battlefield V |
+| [00:26:03](https://youtu.be/FKkEYnD1pMo?t=1563)| Read Dead Redemption 2 |
+| [00:32:11](https://youtu.be/FKkEYnD1pMo?t=1931)| Rainbow Six Siege ikkagi ei tsenseerita |
+| [00:34:07](https://youtu.be/FKkEYnD1pMo?t=2047)| Steam Link tegemine lõpetati, liigutatakse telekatesse |
+| [00:37:51](https://youtu.be/FKkEYnD1pMo?t=2271)| Walking Dead: Final Season tegemist jätkati |
+| [00:39:15](https://youtu.be/FKkEYnD1pMo?t=2355)| Half-Life sai 20 aastaseks |
+| [00:42:16](https://youtu.be/FKkEYnD1pMo?t=2536)| Artifact |
+| [00:44:15](https://youtu.be/FKkEYnD1pMo?t=2655)| Cliff Bleszinski lõpetab mängutööstuses |
+| [00:47:31](https://youtu.be/FKkEYnD1pMo?t=2851)| MÄNGUD |
+| [00:47:42](https://youtu.be/FKkEYnD1pMo?t=2862)| Return of The Obra Dinn |
+| [00:58:15](https://youtu.be/FKkEYnD1pMo?t=3495)| Bite! |
+| [00:59:16](https://youtu.be/FKkEYnD1pMo?t=3556)| Catch & Released |
+| [01:06:55](https://youtu.be/FKkEYnD1pMo?t=4015)| Read Dead Redemption 2 |
+| [01:16:10](https://youtu.be/FKkEYnD1pMo?t=4570)| Don't Starve: Hamlet |
+| [01:22:33](https://youtu.be/FKkEYnD1pMo?t=4953)| Soodsad mängud |
+| [01:27:36](https://youtu.be/FKkEYnD1pMo?t=5256)| OUTRO |
+
+
+
 ## #338 // 16/11/2018
 | aeg | teema |
 |-----|-------|
