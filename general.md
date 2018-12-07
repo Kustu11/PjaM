@@ -1,5 +1,32 @@
 #2018
 
+## #341 // 07/12/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:07](https://youtu.be/0guOD4xAAd4?t=7| INTRO |
+| [00:01:54](https://youtu.be/0guOD4xAAd4?t=114| Rainer reisib: Arcadid Vietnamis |
+| [00:10:40](https://youtu.be/0guOD4xAAd4?t=640| UUDISED |
+| [00:10:49](https://youtu.be/0guOD4xAAd4?t=649| Ka PS-i UK poes saab lisada Eesti krediitkaardi |
+| [00:15:47](https://youtu.be/0guOD4xAAd4?t=947| Euro Truck Simulator 2: Beyond the Baltic Sea näeb hea välja  |
+| [00:18:08](https://youtu.be/0guOD4xAAd4?t=1088| Uus post-apokalüptiline Far Cry tuleb välja |
+| [00:23:54](https://youtu.be/0guOD4xAAd4?t=1434| Epic Games loob enda mängu poe |
+| [00:23:07](https://youtu.be/0guOD4xAAd4?t=1387| Eesti enda mängupood Ultra.IO |
+| [00:34:33](https://youtu.be/0guOD4xAAd4?t=2073| Fortnite saab uue mängulaadi juurde |
+| [00:37:19](https://youtu.be/0guOD4xAAd4?t=2239| Uut Unreal Tournamenti ei tule |
+| [00:38:01](https://youtu.be/0guOD4xAAd4?t=2281| Fallout 76 koti draama |
+| [00:41:47](https://youtu.be/0guOD4xAAd4?t=2507| THQ ostis ära Carmageddoni litsentsi |
+| [00:44:24](https://youtu.be/0guOD4xAAd4?t=2664| Life is Strange 2 uus episood tuleb varsti |
+| [00:45:36](https://youtu.be/0guOD4xAAd4?t=2736| MÄNGUD |
+| [00:45:46](https://youtu.be/0guOD4xAAd4?t=2746| Hitman 2 |
+| [00:54:40](https://youtu.be/0guOD4xAAd4?t=3280| Tetris Effect |
+| [00:57:07](https://youtu.be/0guOD4xAAd4?t=3427| Command and Conquer: Rivals |
+| [01:01:15](https://youtu.be/0guOD4xAAd4?t=3675| PlayStation Classic |
+| [01:13:16](https://youtu.be/0guOD4xAAd4?t=4396| Read Dead Redemption 2 |
+| [01:22:21](https://youtu.be/0guOD4xAAd4?t=4941| Diablo III: Eternal Collection |
+| [01:23:08](https://youtu.be/0guOD4xAAd4?t=4988| Dark Souls: Remastered |
+| [01:31:05](https://youtu.be/0guOD4xAAd4?t=5465| Soodsad mängud |
+| [01:34:02](https://youtu.be/0guOD4xAAd4?t=5642| OUTRO |
+
 ## #340 // 30/11/2018
 | aeg | teema |
 |-----|-------|
