@@ -317,6 +317,29 @@
 | [01:30:37](https://youtu.be/PBOYS21U1So?t=5437| Soodsad mängud |
 | [01:37:08](https://youtu.be/PBOYS21U1So?t=5828| OUTRO |
 
+## #329 // 14/09/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:05](https://youtu.be/zLRA11HOedc?t=5| INTRO |
+| [00:15:10](https://youtu.be/zLRA11HOedc?t=910| UUDISED |
+| [00:15:19](https://youtu.be/zLRA11HOedc?t=919| Nintendo uudised |
+| [00:24:10](https://youtu.be/zLRA11HOedc?t=1450| Apple uued telefonid |
+| [00:28:16](https://youtu.be/zLRA11HOedc?t=1696| Square Enixi uue mängu treiler |
+| [00:29:50](https://youtu.be/zLRA11HOedc?t=1790| Professor Layton IOS-ile |
+| [00:31:37](https://youtu.be/zLRA11HOedc?t=1897| Shadow of the Tomb Raider tuleb välja |
+| [00:34:10](https://youtu.be/zLRA11HOedc?t=2050| Dying Light: Bad Blood tuleb välja |
+| [00:36:40](https://youtu.be/zLRA11HOedc?t=2200| PUBGi lumekaart |
+| [00:39:51](https://youtu.be/zLRA11HOedc?t=2391| Forza Horizon 4-ile tuleb James Bondi autode DLC |
+| [00:41:24](https://youtu.be/zLRA11HOedc?t=2484| Frozen Synapse 2 |
+| [00:42:31](https://youtu.be/zLRA11HOedc?t=2551| A Hat in Time CO-OP DLC  |
+| [00:42:55](https://youtu.be/zLRA11HOedc?t=2575| Steam saab 15 aastat vanaks |
+| [00:45:14](https://youtu.be/zLRA11HOedc?t=2714| MÄNGUD  |
+| [00:45:23](https://youtu.be/zLRA11HOedc?t=2723| Call of Duty: Black Ops 4 Blackout |
+| [01:05:44](https://youtu.be/zLRA11HOedc?t=3944| Donut County |
+| [01:13:31](https://youtu.be/zLRA11HOedc?t=4411| Soodsad Mängud |
+| [01:18:58](https://youtu.be/zLRA11HOedc?t=4738| OUTRO |
+
+
 
 
 # 2014
