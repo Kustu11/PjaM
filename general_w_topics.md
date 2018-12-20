@@ -1,5 +1,32 @@
 #2018
 
+## #342 // 14/12/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:09][intro](https://youtu.be/U7GPxwhudaI?t=9| INTRO |
+| [00:08:15][uudised](https://youtu.be/U7GPxwhudaI?t=495| UUDISED |
+| [00:08:26][tga](https://youtu.be/U7GPxwhudaI?t=506| The Game Awardsi uudised |
+| [00:50:08][doom](https://youtu.be/U7GPxwhudaI?t=3008| Doom sai 25 aastat vanaks |
+| [00:52:50][zenimax](https://youtu.be/U7GPxwhudaI?t=3170| ZeniMax ja Facebooki kohtucase |
+| [00:54:10][blood](https://youtu.be/U7GPxwhudaI?t=3250| Blood remasterdatakse |
+| [00:56:28][street_fighter_v](https://youtu.be/U7GPxwhudaI?t=3388| Street Fighter V saab mängusisesed reklaamid |
+| [00:58:34][crust_team_racing](https://youtu.be/U7GPxwhudaI?t=3514| Crush Team Racingust tuleb remaster |
+| [01:00:10][sonic_film](https://youtu.be/U7GPxwhudaI?t=3610| Sonic'u filmi postrid  |
+| [01:02:16][twd](https://youtu.be/U7GPxwhudaI?t=3736| The Walking Deadi saatus |
+| [01:03:16][etk_mängupäev](https://youtu.be/U7GPxwhudaI?t=3796| Erinevate tubade klubis toimub ETK mängupäev |
+| [01:05:37][mängud](https://youtu.be/U7GPxwhudaI?t=3937| MÄNGUD |
+| [01:05:47][ps_classic](https://youtu.be/U7GPxwhudaI?t=3947| PlayStation Classic |
+| [01:14:38][devil_may_cry_5](https://youtu.be/U7GPxwhudaI?t=4478| Devil May Cry 5 demo |
+| [01:18:09][dusk](https://youtu.be/U7GPxwhudaI?t=4689| Dusk |
+| [01:24:42][katamari](https://youtu.be/U7GPxwhudaI?t=5082| Katamari Damacy Reroll |
+| [01:29:27][pubg](https://youtu.be/U7GPxwhudaI?t=5367| PUBG Vikendi |
+| [01:34:43][astro_bot](https://youtu.be/U7GPxwhudaI?t=5683| Astro bot Rescue Mission |
+| [01:45:58][hitman_2](https://youtu.be/U7GPxwhudaI?t=6358| Hitman 2 |
+| [01:50:25][soodne](https://youtu.be/U7GPxwhudaI?t=6625| Soodsad mängud |
+| [01:53:21][outro](https://youtu.be/U7GPxwhudaI?t=6801| OUTRO  |
+
+
+
 ## #341 // 07/12/2018
 | aeg | teema |
 |-----|-------|
@@ -219,6 +246,77 @@
 | [01:06:25][wolfenstein_2](https://youtu.be/gvDonft8RQw?t=3985| Wolfenstein 2 |
 | [01:14:42][soodne](https://youtu.be/gvDonft8RQw?t=4482| Soodsad mängud |
 | [01:16:44][outro](https://youtu.be/gvDonft8RQw?t=4604| OUTRO |
+
+
+## #332 // 05/10/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:07][intro](https://youtu.be/wh-YmieoWYg?t=7| INTRO |
+| [00:08:32][uudised](https://youtu.be/wh-YmieoWYg?t=512| UUDISED |
+| [00:08:42][google](https://youtu.be/wh-YmieoWYg?t=522| Google teeb enda mängu streaminguteenuse |
+| [00:14:12][switch](https://youtu.be/wh-YmieoWYg?t=852| "Uus" Switch on töös |
+| [00:17:47][minecraft](https://youtu.be/wh-YmieoWYg?t=1067| Minecraft: Dungeons |
+| [00:21:01][twin_peaks_vr](https://youtu.be/wh-YmieoWYg?t=1261| Twin Peaks VR |
+| [00:22:14][blizzcon](https://youtu.be/wh-YmieoWYg?t=1334| BlizzCon tuleb |
+| [00:23:01][startuptalks](https://youtu.be/wh-YmieoWYg?t=1381| StartupTalks |
+| [00:30:29][mängud](https://youtu.be/wh-YmieoWYg?t=1829| MÄNGUD |
+| [00:30:39][nba_2k19](https://youtu.be/wh-YmieoWYg?t=1839| NBA 2K19 |
+| [00:52:56][fortnite](https://youtu.be/wh-YmieoWYg?t=3176| Fortnite  |
+| [01:01:37][lis_2](https://youtu.be/wh-YmieoWYg?t=3697| Life is Strange 2 |
+| [01:09:46][soulcalibur_vi](https://youtu.be/wh-YmieoWYg?t=4186| SoulCalibur VI Network Test |
+| [01:17:59][gow](https://youtu.be/wh-YmieoWYg?t=4679| God of War |
+| [01:22:27][farcry_5](https://youtu.be/wh-YmieoWYg?t=4947| Far Cry 5: Dead Living Zombies |
+| [01:26:29][soodne](https://youtu.be/wh-YmieoWYg?t=5189| Soodsad mängud |
+| [01:30:30][outro](https://youtu.be/wh-YmieoWYg?t=5430| OUTRO |
+
+
+## #331 // 28/09/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:09][intro](https://youtu.be/2QtjVFd5mwU?t=9| INTRO |
+| [00:07:59][mängud](https://youtu.be/2QtjVFd5mwU?t=479| MÄNGUD |
+| [00:08:10][telltale](https://youtu.be/2QtjVFd5mwU?t=490| TellTale pannakse kinni  |
+| [00:25:20][fortnite](https://youtu.be/2QtjVFd5mwU?t=1520| Sony avab Fortnitele väravad ehk CrossPlay |
+| [00:30:09][steam](https://youtu.be/2QtjVFd5mwU?t=1809| Puldid Steamiga  |
+| [00:33:26][dirt_rally](https://youtu.be/2QtjVFd5mwU?t=2006| Kuulutati välja Dirt Rally 2.0 |
+| [00:35:26][xbox](https://youtu.be/2QtjVFd5mwU?t=2126| Hiire ja klaviatuuri tugi XBone-l |
+| [00:37:08][gamepass](https://youtu.be/2QtjVFd5mwU?t=2228| Forza Horizon 4 tuleb GamePassi |
+| [00:38:16][ps_now](https://youtu.be/2QtjVFd5mwU?t=2296| PlayStation Now-s saab PS4 ja PS2 alla tõmmata |
+| [00:41:09][blizzcon](https://youtu.be/2QtjVFd5mwU?t=2469| BlizzCon-i virtuaalse piletiga saab huvitava lisa. |
+| [00:43:11][oculus_quest](https://youtu.be/2QtjVFd5mwU?t=2591| Kuulutati välja Oculus Quest |
+| [00:55:14][shadow_tomb_rider](https://youtu.be/2QtjVFd5mwU?t=3314| Shadow of the Tomb Rider |
+| [01:15:15][twd](https://youtu.be/2QtjVFd5mwU?t=4515| The Walking Dead: Final Season |
+| [01:17:03][growtopia](https://youtu.be/2QtjVFd5mwU?t=4623| GrowTopia |
+| [01:24:43][zelda_lbw](https://youtu.be/2QtjVFd5mwU?t=5083| The Legend of Zelda: A Link Between Worlds |
+| [01:27:33][nintendo_online](https://youtu.be/2QtjVFd5mwU?t=5253| Nintendo Online  |
+| [01:29:35][snes_mini](https://youtu.be/2QtjVFd5mwU?t=5375| SNES Mini |
+| [01:33:25][c_and_c](https://youtu.be/2QtjVFd5mwU?t=5605| C&C netis tasuta mängitav |
+| [01:35:40][soodne](https://youtu.be/2QtjVFd5mwU?t=5740| Soodsad mängud |
+| [01:37:47][outro](https://youtu.be/2QtjVFd5mwU?t=5867| OUTRO |
+
+
+## #330 // 21/09/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:30][intro](https://youtu.be/PBOYS21U1So?t=30| INTRO  |
+| [00:10:08][uudised](https://youtu.be/PBOYS21U1So?t=608| UUDISED |
+| [00:10:19][ps_classic](https://youtu.be/PBOYS21U1So?t=619| PlayStation 1 Classic kuulutati välja |
+| [00:21:36][ps_vita](https://youtu.be/PBOYS21U1So?t=1296| PS Vitale ei tule järge |
+| [00:24:38][nvidia](https://youtu.be/PBOYS21U1So?t=1478| Uued graafikakaardid NVidialt |
+| [00:35:16][oculus_connect](https://youtu.be/PBOYS21U1So?t=2116|  Oculus Connect toimub |
+| [00:36:46][nintendo](https://youtu.be/PBOYS21U1So?t=2206| Nintendo uudised |
+| [00:50:10][pubg](https://youtu.be/PBOYS21U1So?t=3010| PUBG tuleb (ilmselt) PS4-le |
+| [00:51:47][cs_go](https://youtu.be/PBOYS21U1So?t=3107| CS:GO Eesti mängija video |
+| [00:52:35][hasartkastid](https://youtu.be/PBOYS21U1So?t=3155| Hasartkastid |
+| [00:56:18][frostpunk](https://youtu.be/PBOYS21U1So?t=3378| Frostpunk sai DLC |
+| [00:57:01][let_it_die](https://youtu.be/PBOYS21U1So?t=3421| Let It Die PC-l |
+| [00:58:04][mängud](https://youtu.be/PBOYS21U1So?t=3484| MÄNGUD |
+| [00:58:52][far_cry_5](https://youtu.be/PBOYS21U1So?t=3532| Far Cry 5 - Dead Living Zombie |
+| [01:06:35][cod_blackout](https://youtu.be/PBOYS21U1So?t=3995| Call of Duty: Black Ops 4 Blackout |
+| [01:21:57][forza_horizon_4](https://youtu.be/PBOYS21U1So?t=4917| Forza Horizon 4 |
+| [01:25:23][gameboy](https://youtu.be/PBOYS21U1So?t=5123| GameBoy Advanced  |
+| [01:30:37][soodne](https://youtu.be/PBOYS21U1So?t=5437| Soodsad mängud |
+| [01:37:08][outro](https://youtu.be/PBOYS21U1So?t=5828| OUTRO |
 
 
 
