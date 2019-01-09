@@ -1,4 +1,47 @@
+#2019
+
+## #344 // 04/01/2019
+| aeg | teema |
+|-----|-------|
+| [00:00:05](https://youtu.be/48XbCq2bFXc?t=5)| INTRO |
+| [00:10:28](https://youtu.be/48XbCq2bFXc?t=628)| UUDISED |
+| [00:10:37](https://youtu.be/48XbCq2bFXc?t=637)| Life is Strange 2 tuli Gamepassi |
+| [00:12:22](https://youtu.be/48XbCq2bFXc?t=742)| Uus konsool on tulemas |
+| [00:16:00](https://youtu.be/48XbCq2bFXc?t=960)| Inglismaa digitaalne mängudemüük |
+| [00:17:04](https://youtu.be/48XbCq2bFXc?t=1024)| Nintendo ostuelamus |
+| [00:20:34](https://youtu.be/48XbCq2bFXc?t=1234)| 2019 ootused |
+| [01:02:08](https://youtu.be/48XbCq2bFXc?t=3728)| MÄNGUD |
+| [01:02:17](https://youtu.be/48XbCq2bFXc?t=3737)| South Park: The Fractured but Whole |
+| [01:03:30](https://youtu.be/48XbCq2bFXc?t=3810)| CS:GO Danger Zone |
+| [01:10:36](https://youtu.be/48XbCq2bFXc?t=4236)| Mario & Luigi: Superstar Saga + Bowser's Minions |
+| [01:15:37](https://youtu.be/48XbCq2bFXc?t=4537)| Hitman 2 |
+| [01:16:49](https://youtu.be/48XbCq2bFXc?t=4609)| Super Smash Brothers Ultimate |
+| [01:19:46](https://youtu.be/48XbCq2bFXc?t=4786)| RetroPie |
+| [01:21:14](https://youtu.be/48XbCq2bFXc?t=4874)| Soodsad mängud |
+| [01:23:53](https://youtu.be/48XbCq2bFXc?t=5033)| OUTRO |
+
 #2018
+
+## #343 // 28/12/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:16](https://youtu.be/wit5LWm5u3s?t=16)| INTRO |
+| [00:07:28](https://youtu.be/wit5LWm5u3s?t=448)| MÄNGUD |
+| [00:07:40](https://youtu.be/wit5LWm5u3s?t=460)| Donut County |
+| [00:08:22](https://youtu.be/wit5LWm5u3s?t=502)| CS:GO Danger Zone |
+| [00:10:15](https://youtu.be/wit5LWm5u3s?t=615)| Wolfenstein: The New Order |
+| [00:12:26](https://youtu.be/wit5LWm5u3s?t=746)| Don't Starve: Hamlet |
+| [00:13:31](https://youtu.be/wit5LWm5u3s?t=811)| Oxygen Not Included |
+| [00:15:28](https://youtu.be/wit5LWm5u3s?t=928)| Hitman 2 |
+| [00:17:27](https://youtu.be/wit5LWm5u3s?t=1047)| Katamari Damacy Reroll |
+| [00:18:26](https://youtu.be/wit5LWm5u3s?t=1106)| Super Smash Brothers Ultimate |
+| [00:21:39](https://youtu.be/wit5LWm5u3s?t=1299)| Event[0] |
+| [00:24:04](https://youtu.be/wit5LWm5u3s?t=1444)| RetroPie |
+| [00:28:28](https://youtu.be/wit5LWm5u3s?t=1708)| 2018 aasta iseloomustajad |
+| [01:29:15](https://youtu.be/wit5LWm5u3s?t=5355)| Saatejuhtide 2018 top 3+1 |
+| [02:16:51](https://youtu.be/wit5LWm5u3s?t=8211)| OUTRO |
+
+
 
 ## #342 // 14/12/2018
 | aeg | teema |
@@ -316,6 +359,170 @@
 | [01:25:23](https://youtu.be/PBOYS21U1So?t=5123| GameBoy Advanced  |
 | [01:30:37](https://youtu.be/PBOYS21U1So?t=5437| Soodsad mängud |
 | [01:37:08](https://youtu.be/PBOYS21U1So?t=5828| OUTRO |
+
+## #329 // 14/09/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:05](https://youtu.be/zLRA11HOedc?t=5)| INTRO |
+| [00:15:10](https://youtu.be/zLRA11HOedc?t=910)| UUDISED |
+| [00:15:19](https://youtu.be/zLRA11HOedc?t=919)| Nintendo uudised |
+| [00:24:10](https://youtu.be/zLRA11HOedc?t=1450)| Apple uued telefonid |
+| [00:28:16](https://youtu.be/zLRA11HOedc?t=1696)| Square Enixi uue mängu treiler |
+| [00:29:50](https://youtu.be/zLRA11HOedc?t=1790)| Professor Layton IOS-ile |
+| [00:31:37](https://youtu.be/zLRA11HOedc?t=1897)| Shadow of the Tomb Raider tuleb välja |
+| [00:34:10](https://youtu.be/zLRA11HOedc?t=2050)| Dying Light: Bad Blood tuleb välja |
+| [00:36:40](https://youtu.be/zLRA11HOedc?t=2200)| PUBGi lumekaart |
+| [00:39:51](https://youtu.be/zLRA11HOedc?t=2391)| Forza Horizon 4-ile tuleb James Bondi autode DLC |
+| [00:41:24](https://youtu.be/zLRA11HOedc?t=2484)| Frozen Synapse 2 |
+| [00:42:31](https://youtu.be/zLRA11HOedc?t=2551)| A Hat in Time CO-OP DLC  |
+| [00:42:55](https://youtu.be/zLRA11HOedc?t=2575)| Steam saab 15 aastat vanaks |
+| [00:45:14](https://youtu.be/zLRA11HOedc?t=2714)| MÄNGUD  |
+| [00:45:23](https://youtu.be/zLRA11HOedc?t=2723)| Call of Duty: Black Ops 4 Blackout |
+| [01:05:44](https://youtu.be/zLRA11HOedc?t=3944)| Donut County |
+| [01:13:31](https://youtu.be/zLRA11HOedc?t=4411)| Soodsad Mängud |
+| [01:18:58](https://youtu.be/zLRA11HOedc?t=4738)| OUTRO |
+
+
+## #328 // 07/09/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:11](https://youtu.be/BMc5LkMqtRY?t=11)| INTRO  |
+| [00:05:41](https://youtu.be/BMc5LkMqtRY?t=341)| UUDISED |
+| [00:05:51](https://youtu.be/BMc5LkMqtRY?t=351)| Battle Royal'i uudised |
+| [00:12:45](https://youtu.be/BMc5LkMqtRY?t=765)| Battlefield V |
+| [00:13:44](https://youtu.be/BMc5LkMqtRY?t=824)| Kingdoms of Amalur'i õigused osteti ära |
+| [00:18:03](https://youtu.be/BMc5LkMqtRY?t=1083)| RuneScape tuleb telefonidele |
+| [00:19:39](https://youtu.be/BMc5LkMqtRY?t=1179)| Netflixi Gerald on teada |
+| [00:24:15](https://youtu.be/BMc5LkMqtRY?t=1455)| CS:GO sai tasuta versiooni |
+| [00:26:40](https://youtu.be/BMc5LkMqtRY?t=1600)| Prison:Architect saab co-op versiooni |
+| [00:29:46](https://youtu.be/BMc5LkMqtRY?t=1786)| Thumper tuleb Oculus GO'le |
+| [00:33:24](https://youtu.be/BMc5LkMqtRY?t=2004)| MÄNGUD |
+| [00:33:32](https://youtu.be/BMc5LkMqtRY?t=2012)| Marvel's Spider-Man |
+| [00:55:12](https://youtu.be/BMc5LkMqtRY?t=3312)| Two Point Hospital |
+| [01:14:54](https://youtu.be/BMc5LkMqtRY?t=4494)| Soodsad mängud |
+| [01:18:45](https://youtu.be/BMc5LkMqtRY?t=4725)| OUTRO |
+
+
+## #327 // 31/08/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:02](https://youtu.be/foVXEp0H94Y?t=2)| INTRO |
+| [00:08:33](https://youtu.be/foVXEp0H94Y?t=513)| UUDISED |
+| [00:08:43](https://youtu.be/foVXEp0H94Y?t=523)| Battlefield V |
+| [00:13:54](https://youtu.be/foVXEp0H94Y?t=834)| Cyberpunk 2077 mängu näidati lõpuks  |
+| [00:19:24](https://youtu.be/foVXEp0H94Y?t=1164)| Madden turniiri tulistamine |
+| [00:21:23](https://youtu.be/foVXEp0H94Y?t=1283)| Thronebraker CD Project Redi poolt |
+| [00:23:35](https://youtu.be/foVXEp0H94Y?t=1415)| Shortest Trip to Earth tuleb sellel aastal Early Accessi |
+| [00:26:50](https://youtu.be/foVXEp0H94Y?t=1610)| Spelunky 2 ilmumisaken selgus |
+| [00:28:11](https://youtu.be/foVXEp0H94Y?t=1691)| The Binding of Isaac saab lisa |
+| [00:30:46](https://youtu.be/foVXEp0H94Y?t=1846)| Dotemu uued mängud |
+| [00:32:37](https://youtu.be/foVXEp0H94Y?t=1957)| Uued mängud Nintendo Switchile |
+| [00:37:08](https://youtu.be/foVXEp0H94Y?t=2228)| Hitman 2-ga saad kaasa Hitman 1 levelid |
+| [00:38:54](https://youtu.be/foVXEp0H94Y?t=2334)| Onimusha: Warlords tuleb tänapäeva |
+| [00:40:33](https://youtu.be/foVXEp0H94Y?t=2433)| MÄNGUD |
+| [00:41:18](https://youtu.be/foVXEp0H94Y?t=2478)| The Walking Dead: The Final Season |
+| [00:48:43](https://youtu.be/foVXEp0H94Y?t=2923)| Hollow Knight  |
+| [00:54:29](https://youtu.be/foVXEp0H94Y?t=3269)| Hellblade: Senua's Sacrafice |
+| [01:01:26](https://youtu.be/foVXEp0H94Y?t=3686)| Dead Cells |
+| [01:03:08](https://youtu.be/foVXEp0H94Y?t=3788)| Middle-earth: Shadow of Mordor |
+| [01:13:15](https://youtu.be/foVXEp0H94Y?t=4395)| Soodsad mängud |
+| [01:19:41](https://youtu.be/foVXEp0H94Y?t=4781)| OUTRO |
+
+
+## #326 // 24/08/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:01](https://youtu.be/xsUGLDhP45Y?t=1)| INTRO |
+| [00:05:31](https://youtu.be/xsUGLDhP45Y?t=331)| UUDISED |
+| [00:05:55](https://youtu.be/xsUGLDhP45Y?t=355)| RTX 20x0 kuulutati välja |
+| [00:12:41](https://youtu.be/xsUGLDhP45Y?t=761)| PUBG-i tuleb lasketiir |
+| [00:14:32](https://youtu.be/xsUGLDhP45Y?t=872)| Gamescom 2018 |
+| [00:44:36](https://youtu.be/xsUGLDhP45Y?t=2676)| Steam TV |
+| [00:45:48](https://youtu.be/xsUGLDhP45Y?t=2748)| Twitch Prime kasutajad saavad reklaamid tagasi |
+| [00:47:03](https://youtu.be/xsUGLDhP45Y?t=2823)| Levelup mängumuuseum |
+| [00:48:44](https://youtu.be/xsUGLDhP45Y?t=2924)| MÄNGUD |
+| [00:48:51](https://youtu.be/xsUGLDhP45Y?t=2931)| Dead Cells |
+| [00:58:52](https://youtu.be/xsUGLDhP45Y?t=3532)| WarioWare Gold |
+| [01:01:09](https://youtu.be/xsUGLDhP45Y?t=3669)| Doom |
+| [01:01:55](https://youtu.be/xsUGLDhP45Y?t=3715)| Rage |
+| [01:02:49](https://youtu.be/xsUGLDhP45Y?t=3769)| Circle Empires |
+| [01:07:44](https://youtu.be/xsUGLDhP45Y?t=4064)| Overcooked 2 |
+| [01:10:15](https://youtu.be/xsUGLDhP45Y?t=4215)| Soodsad mängud |
+| [01:15:52](https://youtu.be/xsUGLDhP45Y?t=4552)| OUTRO |
+
+
+## #325 // 17/08/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:08](https://youtu.be/9Sjb0KTE1wI?t=8)| INTRO |
+| [00:06:28](https://youtu.be/9Sjb0KTE1wI?t=388)| UUDISED |
+| [00:06:37](https://youtu.be/9Sjb0KTE1wI?t=397)| QuakeCon 2018 |
+| [00:22:54](https://youtu.be/9Sjb0KTE1wI?t=1374)| Uued nVidia graafikakaardid kuulutatakse välja |
+| [00:27:06](https://youtu.be/9Sjb0KTE1wI?t=1626)| Intel hakkab videokaarte tootma |
+| [00:28:20](https://youtu.be/9Sjb0KTE1wI?t=1700)| Battlefield V battle royali näidati |
+| [00:30:53](https://youtu.be/9Sjb0KTE1wI?t=1853)| Cuphead müüs 3 miljonit |
+| [00:32:13](https://youtu.be/9Sjb0KTE1wI?t=1933)| PS VR müüs 3 miljonit |
+| [00:33:12](https://youtu.be/9Sjb0KTE1wI?t=1992)| Diablo 3 tuleb Nintendo Switchile |
+| [00:37:51](https://youtu.be/9Sjb0KTE1wI?t=2271)| Switchile tuleb õngeritv |
+| [00:39:34](https://youtu.be/9Sjb0KTE1wI?t=2374)| Dark Soulsi Remaster switchile tuleb oktoobris |
+| [00:41:04](https://youtu.be/9Sjb0KTE1wI?t=2464)| MÄNGUD |
+| [00:41:13](https://youtu.be/9Sjb0KTE1wI?t=2473)| Dead Cells |
+| [00:55:17](https://youtu.be/9Sjb0KTE1wI?t=3317)| WarioWare Gold |
+| [01:03:27](https://youtu.be/9Sjb0KTE1wI?t=3807)| Soodsad mängud |
+| [01:06:32](https://youtu.be/9Sjb0KTE1wI?t=3992)| OUTRO |
+
+
+## #324 // 10/08/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:01](https://youtu.be/raAttWIFjTY?t=1)| INTRO |
+| [00:07:36](https://youtu.be/raAttWIFjTY?t=456)| UUDISED |
+| [00:07:46](https://youtu.be/raAttWIFjTY?t=466)| Fortnite tuleb Androidile |
+| [00:13:01](https://youtu.be/raAttWIFjTY?t=781)| Fallout 76 ei tule steami |
+| [00:15:18](https://youtu.be/raAttWIFjTY?t=918)| Discord hakkab mänge müüma |
+| [00:18:32](https://youtu.be/raAttWIFjTY?t=1112)| Mängudehaldaja Playnite.link |
+| [00:21:14](https://youtu.be/raAttWIFjTY?t=1274)| Red Dead Redemption 2 |
+| [00:35:50](https://youtu.be/raAttWIFjTY?t=2150)| Nintendo ROM-ide sited pandi kinni |
+| [00:43:28](https://youtu.be/raAttWIFjTY?t=2608)| Diablo uusi projekte näidatakse |
+| [00:44:46](https://youtu.be/raAttWIFjTY?t=2686)| EVO 2018 |
+| [00:49:36](https://youtu.be/raAttWIFjTY?t=2976)| MÄNGUD |
+| [00:49:46](https://youtu.be/raAttWIFjTY?t=2986)| Dead Cells |
+| [01:03:46](https://youtu.be/raAttWIFjTY?t=3826)| Circle Empires |
+| [01:04:56](https://youtu.be/raAttWIFjTY?t=3896)| Overcooked 2 |
+| [01:07:49](https://youtu.be/raAttWIFjTY?t=4069)| CS:GO |
+| [01:08:50](https://youtu.be/raAttWIFjTY?t=4130)| Subnautica |
+| [01:10:43](https://youtu.be/raAttWIFjTY?t=4243)| No Man's Sky |
+| [01:11:46](https://youtu.be/raAttWIFjTY?t=4306)| God of War |
+| [01:14:43](https://youtu.be/raAttWIFjTY?t=4483)| Soodsad mängud |
+| [01:20:53](https://youtu.be/raAttWIFjTY?t=4853)| OUTRO |
+
+
+## #323 // 03/08/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:16](https://youtu.be/EWNb5LcWpkE?t=16)| INTRO |
+| [00:07:33](https://youtu.be/EWNb5LcWpkE?t=453)| UUDISED |
+| [00:07:43](https://youtu.be/EWNb5LcWpkE?t=463)| Fortnite tuleb Androidile. Algselt ekslusiivselt |
+| [00:16:18](https://youtu.be/EWNb5LcWpkE?t=978)| Call of Duty: Black Ops 4 Blackout |
+| [00:26:24](https://youtu.be/EWNb5LcWpkE?t=1584)| Battlefield V battle royale tuleb hiljem |
+| [00:27:13](https://youtu.be/EWNb5LcWpkE?t=1633)| Steamis oli krüptokaevandaja |
+| [00:33:24](https://youtu.be/EWNb5LcWpkE?t=2004)| Mäng trofeedest |
+| [00:39:07](https://youtu.be/EWNb5LcWpkE?t=2347)| Eesti mängud steamis  |
+| [00:41:56](https://youtu.be/EWNb5LcWpkE?t=2516)| Uus valve mäng Artifact sai väljalaskekuupäeva |
+| [00:47:09](https://youtu.be/EWNb5LcWpkE?t=2829)| The Long Darki kolmas episood ja esimese kahe episoodi reboot tulevad detsembris |
+| [00:49:14](https://youtu.be/EWNb5LcWpkE?t=2954)| Kentucky Route Zero viies osa tuleb siis, kui see valmis saab |
+| [00:50:01](https://youtu.be/EWNb5LcWpkE?t=3001)| Nintendo müügitulemused |
+| [00:54:58](https://youtu.be/EWNb5LcWpkE?t=3298)| MÄNGUD |
+| [00:56:00](https://youtu.be/EWNb5LcWpkE?t=3360)| Reinu uus arvuti |
+| [01:05:23](https://youtu.be/EWNb5LcWpkE?t=3923)| Subnautica |
+| [01:11:41](https://youtu.be/EWNb5LcWpkE?t=4301)| God of War |
+| [01:20:40](https://youtu.be/EWNb5LcWpkE?t=4840)| Hellblade: Senua's Sacrafice |
+| [01:22:02](https://youtu.be/EWNb5LcWpkE?t=4922)| The Awesome Adventures of Captain Spirit |
+| [01:25:17](https://youtu.be/EWNb5LcWpkE?t=5117)| No Man's Sky |
+| [01:28:01](https://youtu.be/EWNb5LcWpkE?t=5281)| Game Boy Advanced  |
+| [01:31:47](https://youtu.be/EWNb5LcWpkE?t=5507)| Soodsad mängud |
+| [01:35:20](https://youtu.be/EWNb5LcWpkE?t=5720)| OUTRO |
+
 
 
 
