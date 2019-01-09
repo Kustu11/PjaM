@@ -46,56 +46,56 @@
 ## #342 // 14/12/2018
 | aeg | teema |
 |-----|-------|
-| [00:00:09](https://youtu.be/U7GPxwhudaI?t=9)| INTRO |
-| [00:08:15](https://youtu.be/U7GPxwhudaI?t=495)| UUDISED |
-| [00:08:26](https://youtu.be/U7GPxwhudaI?t=506)| The Game Awardsi uudised |
-| [00:50:08](https://youtu.be/U7GPxwhudaI?t=3008)| Doom sai 25 aastat vanaks |
-| [00:52:50](https://youtu.be/U7GPxwhudaI?t=3170)| ZeniMax ja Facebooki kohtucase |
-| [00:54:10](https://youtu.be/U7GPxwhudaI?t=3250)| Blood remasterdatakse |
-| [00:56:28](https://youtu.be/U7GPxwhudaI?t=3388)| Street Fighter V saab mängusisesed reklaamid |
-| [00:58:34](https://youtu.be/U7GPxwhudaI?t=3514)| Crush Team Racingust tuleb remaster |
-| [01:00:10](https://youtu.be/U7GPxwhudaI?t=3610)| Sonic'u filmi postrid  |
-| [01:02:16](https://youtu.be/U7GPxwhudaI?t=3736)| The Walking Deadi saatus |
-| [01:03:16](https://youtu.be/U7GPxwhudaI?t=3796)| Erinevate tubade klubis toimub ETK mängupäev |
-| [01:05:37](https://youtu.be/U7GPxwhudaI?t=3937)| MÄNGUD |
-| [01:05:47](https://youtu.be/U7GPxwhudaI?t=3947)| PlayStation Classic |
-| [01:14:38](https://youtu.be/U7GPxwhudaI?t=4478)| Devil May Cry 5 demo |
-| [01:18:09](https://youtu.be/U7GPxwhudaI?t=4689)| Dusk |
-| [01:24:42](https://youtu.be/U7GPxwhudaI?t=5082)| Katamari Damacy Reroll |
-| [01:29:27](https://youtu.be/U7GPxwhudaI?t=5367)| PUBG Vikendi |
-| [01:34:43](https://youtu.be/U7GPxwhudaI?t=5683)| Astro bot Rescue Mission |
-| [01:45:58](https://youtu.be/U7GPxwhudaI?t=6358)| Hitman 2 |
-| [01:50:25](https://youtu.be/U7GPxwhudaI?t=6625)| Soodsad mängud |
-| [01:53:21](https://youtu.be/U7GPxwhudaI?t=6801)| OUTRO  |
+| [00:00:09](https://youtu.be/U7GPxwhudaI?t=9| INTRO |
+| [00:08:15](https://youtu.be/U7GPxwhudaI?t=495| UUDISED |
+| [00:08:26](https://youtu.be/U7GPxwhudaI?t=506| The Game Awardsi uudised |
+| [00:50:08](https://youtu.be/U7GPxwhudaI?t=3008| Doom sai 25 aastat vanaks |
+| [00:52:50](https://youtu.be/U7GPxwhudaI?t=3170| ZeniMax ja Facebooki kohtucase |
+| [00:54:10](https://youtu.be/U7GPxwhudaI?t=3250| Blood remasterdatakse |
+| [00:56:28](https://youtu.be/U7GPxwhudaI?t=3388| Street Fighter V saab mängusisesed reklaamid |
+| [00:58:34](https://youtu.be/U7GPxwhudaI?t=3514| Crush Team Racingust tuleb remaster |
+| [01:00:10](https://youtu.be/U7GPxwhudaI?t=3610| Sonic'u filmi postrid  |
+| [01:02:16](https://youtu.be/U7GPxwhudaI?t=3736| The Walking Deadi saatus |
+| [01:03:16](https://youtu.be/U7GPxwhudaI?t=3796| Erinevate tubade klubis toimub ETK mängupäev |
+| [01:05:37](https://youtu.be/U7GPxwhudaI?t=3937| MÄNGUD |
+| [01:05:47](https://youtu.be/U7GPxwhudaI?t=3947| PlayStation Classic |
+| [01:14:38](https://youtu.be/U7GPxwhudaI?t=4478| Devil May Cry 5 demo |
+| [01:18:09](https://youtu.be/U7GPxwhudaI?t=4689| Dusk |
+| [01:24:42](https://youtu.be/U7GPxwhudaI?t=5082| Katamari Damacy Reroll |
+| [01:29:27](https://youtu.be/U7GPxwhudaI?t=5367| PUBG Vikendi |
+| [01:34:43](https://youtu.be/U7GPxwhudaI?t=5683| Astro bot Rescue Mission |
+| [01:45:58](https://youtu.be/U7GPxwhudaI?t=6358| Hitman 2 |
+| [01:50:25](https://youtu.be/U7GPxwhudaI?t=6625| Soodsad mängud |
+| [01:53:21](https://youtu.be/U7GPxwhudaI?t=6801| OUTRO  |
 
 
 
 ## #341 // 07/12/2018
 | aeg | teema |
 |-----|-------|
-| [00:00:07](https://youtu.be/0guOD4xAAd4?t=7)| INTRO |
-| [00:01:54](https://youtu.be/0guOD4xAAd4?t=114)| Rainer reisib: Arcadid Vietnamis |
-| [00:10:40](https://youtu.be/0guOD4xAAd4?t=640)| UUDISED |
-| [00:10:49](https://youtu.be/0guOD4xAAd4?t=649)| Ka PS-i UK poes saab lisada Eesti krediitkaardi |
-| [00:15:47](https://youtu.be/0guOD4xAAd4?t=947)| Euro Truck Simulator 2: Beyond the Baltic Sea näeb hea välja  |
-| [00:18:08](https://youtu.be/0guOD4xAAd4?t=1088)| Uus post-apokalüptiline Far Cry tuleb välja |
-| [00:23:54](https://youtu.be/0guOD4xAAd4?t=1434)| Epic Games loob enda mängu poe |
-| [00:23:07](https://youtu.be/0guOD4xAAd4?t=1387)| Eesti enda mängupood Ultra.IO |
-| [00:34:33](https://youtu.be/0guOD4xAAd4?t=2073)| Fortnite saab uue mängulaadi juurde |
-| [00:37:19](https://youtu.be/0guOD4xAAd4?t=2239)| Uut Unreal Tournamenti ei tule |
-| [00:38:01](https://youtu.be/0guOD4xAAd4?t=2281)| Fallout 76 koti draama |
-| [00:41:47](https://youtu.be/0guOD4xAAd4?t=2507)| THQ ostis ära Carmageddoni litsentsi |
-| [00:44:24](https://youtu.be/0guOD4xAAd4?t=2664)| Life is Strange 2 uus episood tuleb varsti |
-| [00:45:36](https://youtu.be/0guOD4xAAd4?t=2736)| MÄNGUD |
-| [00:45:46](https://youtu.be/0guOD4xAAd4?t=2746)| Hitman 2 |
-| [00:54:40](https://youtu.be/0guOD4xAAd4?t=3280)| Tetris Effect |
-| [00:57:07](https://youtu.be/0guOD4xAAd4?t=3427)| Command and Conquer: Rivals |
-| [01:01:15](https://youtu.be/0guOD4xAAd4?t=3675)| PlayStation Classic |
-| [01:13:16](https://youtu.be/0guOD4xAAd4?t=4396)| Read Dead Redemption 2 |
-| [01:22:21](https://youtu.be/0guOD4xAAd4?t=4941)| Diablo III: Eternal Collection |
-| [01:23:08](https://youtu.be/0guOD4xAAd4?t=4988)| Dark Souls: Remastered |
-| [01:31:05](https://youtu.be/0guOD4xAAd4?t=5465)| Soodsad mängud |
-| [01:34:02](https://youtu.be/0guOD4xAAd4?t=5642)| OUTRO |
+| [00:00:07](https://youtu.be/0guOD4xAAd4?t=7| INTRO |
+| [00:01:54](https://youtu.be/0guOD4xAAd4?t=114| Rainer reisib: Arcadid Vietnamis |
+| [00:10:40](https://youtu.be/0guOD4xAAd4?t=640| UUDISED |
+| [00:10:49](https://youtu.be/0guOD4xAAd4?t=649| Ka PS-i UK poes saab lisada Eesti krediitkaardi |
+| [00:15:47](https://youtu.be/0guOD4xAAd4?t=947| Euro Truck Simulator 2: Beyond the Baltic Sea näeb hea välja  |
+| [00:18:08](https://youtu.be/0guOD4xAAd4?t=1088| Uus post-apokalüptiline Far Cry tuleb välja |
+| [00:23:54](https://youtu.be/0guOD4xAAd4?t=1434| Epic Games loob enda mängu poe |
+| [00:23:07](https://youtu.be/0guOD4xAAd4?t=1387| Eesti enda mängupood Ultra.IO |
+| [00:34:33](https://youtu.be/0guOD4xAAd4?t=2073| Fortnite saab uue mängulaadi juurde |
+| [00:37:19](https://youtu.be/0guOD4xAAd4?t=2239| Uut Unreal Tournamenti ei tule |
+| [00:38:01](https://youtu.be/0guOD4xAAd4?t=2281| Fallout 76 koti draama |
+| [00:41:47](https://youtu.be/0guOD4xAAd4?t=2507| THQ ostis ära Carmageddoni litsentsi |
+| [00:44:24](https://youtu.be/0guOD4xAAd4?t=2664| Life is Strange 2 uus episood tuleb varsti |
+| [00:45:36](https://youtu.be/0guOD4xAAd4?t=2736| MÄNGUD |
+| [00:45:46](https://youtu.be/0guOD4xAAd4?t=2746| Hitman 2 |
+| [00:54:40](https://youtu.be/0guOD4xAAd4?t=3280| Tetris Effect |
+| [00:57:07](https://youtu.be/0guOD4xAAd4?t=3427| Command and Conquer: Rivals |
+| [01:01:15](https://youtu.be/0guOD4xAAd4?t=3675| PlayStation Classic |
+| [01:13:16](https://youtu.be/0guOD4xAAd4?t=4396| Read Dead Redemption 2 |
+| [01:22:21](https://youtu.be/0guOD4xAAd4?t=4941| Diablo III: Eternal Collection |
+| [01:23:08](https://youtu.be/0guOD4xAAd4?t=4988| Dark Souls: Remastered |
+| [01:31:05](https://youtu.be/0guOD4xAAd4?t=5465| Soodsad mängud |
+| [01:34:02](https://youtu.be/0guOD4xAAd4?t=5642| OUTRO |
 
 ## #340 // 30/11/2018
 | aeg | teema |
@@ -269,7 +269,7 @@
 | [00:08:22](https://youtu.be/gvDonft8RQw?t=502)| UUDISED  |
 | [00:08:32](https://youtu.be/gvDonft8RQw?t=512)| Koduvõrgu streaminguteenused: Microsoft vs Google |
 | [00:17:02](https://youtu.be/gvDonft8RQw?t=1022)| Sonyl on töös uus konsool |
-| [00:19:20](https://youtu.be/gvDonft8RQw?t=1160| Sony konsoolidel saab hakata kasutajanime muuta |
+| [00:19:20](https://youtu.be/gvDonft8RQw?t=1160)| Sony konsoolidel saab hakata kasutajanime muuta |
 | [00:22:47](https://youtu.be/gvDonft8RQw?t=1367)| Metal Gear Solid 2 ja 3 on mängitav XBone-l  |
 | [00:24:01](https://youtu.be/gvDonft8RQw?t=1441)| Microsoft on Obsidiani ostmas |
 | [00:26:36](https://youtu.be/gvDonft8RQw?t=1596)| Plaadimängija uutes konsoolides |
@@ -359,49 +359,6 @@
 | [01:25:23](https://youtu.be/PBOYS21U1So?t=5123)| GameBoy Advanced  |
 | [01:30:37](https://youtu.be/PBOYS21U1So?t=5437)| Soodsad mängud |
 | [01:37:08](https://youtu.be/PBOYS21U1So?t=5828)| OUTRO |
-
-## #329 // 14/09/2018
-| aeg | teema |
-|-----|-------|
-| [00:00:05](https://youtu.be/zLRA11HOedc?t=5)| INTRO |
-| [00:15:10](https://youtu.be/zLRA11HOedc?t=910)| UUDISED |
-| [00:15:19](https://youtu.be/zLRA11HOedc?t=919)| Nintendo uudised |
-| [00:24:10](https://youtu.be/zLRA11HOedc?t=1450)| Apple uued telefonid |
-| [00:28:16](https://youtu.be/zLRA11HOedc?t=1696)| Square Enixi uue mängu treiler |
-| [00:29:50](https://youtu.be/zLRA11HOedc?t=1790)| Professor Layton IOS-ile |
-| [00:31:37](https://youtu.be/zLRA11HOedc?t=1897)| Shadow of the Tomb Raider tuleb välja |
-| [00:34:10](https://youtu.be/zLRA11HOedc?t=2050)| Dying Light: Bad Blood tuleb välja |
-| [00:36:40](https://youtu.be/zLRA11HOedc?t=2200)| PUBGi lumekaart |
-| [00:39:51](https://youtu.be/zLRA11HOedc?t=2391)| Forza Horizon 4-ile tuleb James Bondi autode DLC |
-| [00:41:24](https://youtu.be/zLRA11HOedc?t=2484)| Frozen Synapse 2 |
-| [00:42:31](https://youtu.be/zLRA11HOedc?t=2551)| A Hat in Time CO-OP DLC  |
-| [00:42:55](https://youtu.be/zLRA11HOedc?t=2575)| Steam saab 15 aastat vanaks |
-| [00:45:14](https://youtu.be/zLRA11HOedc?t=2714)| MÄNGUD  |
-| [00:45:23](https://youtu.be/zLRA11HOedc?t=2723)| Call of Duty: Black Ops 4 Blackout |
-| [01:05:44](https://youtu.be/zLRA11HOedc?t=3944)| Donut County |
-| [01:13:31](https://youtu.be/zLRA11HOedc?t=4411)| Soodsad Mängud |
-| [01:18:58](https://youtu.be/zLRA11HOedc?t=4738)| OUTRO |
-
-
-## #328 // 07/09/2018
-| aeg | teema |
-|-----|-------|
-| [00:00:11](https://youtu.be/BMc5LkMqtRY?t=11)| INTRO  |
-| [00:05:41](https://youtu.be/BMc5LkMqtRY?t=341)| UUDISED |
-| [00:05:51](https://youtu.be/BMc5LkMqtRY?t=351)| Battle Royal'i uudised |
-| [00:12:45](https://youtu.be/BMc5LkMqtRY?t=765)| Battlefield V |
-| [00:13:44](https://youtu.be/BMc5LkMqtRY?t=824)| Kingdoms of Amalur'i õigused osteti ära |
-| [00:18:03](https://youtu.be/BMc5LkMqtRY?t=1083)| RuneScape tuleb telefonidele |
-| [00:19:39](https://youtu.be/BMc5LkMqtRY?t=1179)| Netflixi Gerald on teada |
-| [00:24:15](https://youtu.be/BMc5LkMqtRY?t=1455)| CS:GO sai tasuta versiooni |
-| [00:26:40](https://youtu.be/BMc5LkMqtRY?t=1600)| Prison:Architect saab co-op versiooni |
-| [00:29:46](https://youtu.be/BMc5LkMqtRY?t=1786)| Thumper tuleb Oculus GO'le |
-| [00:33:24](https://youtu.be/BMc5LkMqtRY?t=2004)| MÄNGUD |
-| [00:33:32](https://youtu.be/BMc5LkMqtRY?t=2012)| Marvel's Spider-Man |
-| [00:55:12](https://youtu.be/BMc5LkMqtRY?t=3312)| Two Point Hospital |
-| [01:14:54](https://youtu.be/BMc5LkMqtRY?t=4494)| Soodsad mängud |
-| [01:18:45](https://youtu.be/BMc5LkMqtRY?t=4725)| OUTRO |
-
 
 ## #329 // 14/09/2018
 | aeg | teema |

@@ -357,52 +357,9 @@
 | [00:58:52][far_cry_5](https://youtu.be/PBOYS21U1So?t=3532)| Far Cry 5 - Dead Living Zombie |
 | [01:06:35][cod_blackout](https://youtu.be/PBOYS21U1So?t=3995)| Call of Duty: Black Ops 4 Blackout |
 | [01:21:57][forza_horizon_4](https://youtu.be/PBOYS21U1So?t=4917)| Forza Horizon 4 |
-| [01:25:23][gameboy](https://youtu.be/PBOYS21U1So?t=5123)| GameBoy Advanced |
+| [01:25:23][gameboy](https://youtu.be/PBOYS21U1So?t=5123)| GameBoy Advanced  |
 | [01:30:37][soodne](https://youtu.be/PBOYS21U1So?t=5437)| Soodsad mängud |
 | [01:37:08][outro](https://youtu.be/PBOYS21U1So?t=5828)| OUTRO |
-
-
-## #329 // 14/09/2018
-| aeg | teema |
-|-----|-------|
-| [00:00:05][intro](https://youtu.be/zLRA11HOedc?t=5)| INTRO |
-| [00:15:10][uudised](https://youtu.be/zLRA11HOedc?t=910)| UUDISED |
-| [00:15:19][nintendo](https://youtu.be/zLRA11HOedc?t=919)| Nintendo uudised |
-| [00:24:10][apple](https://youtu.be/zLRA11HOedc?t=1450)| Apple uued telefonid |
-| [00:28:16][square_enix](https://youtu.be/zLRA11HOedc?t=1696)| Square Enixi uue mängu treiler |
-| [00:29:50][professor_layton](https://youtu.be/zLRA11HOedc?t=1790)| Professor Layton IOS-ile |
-| [00:31:37][shadow_of_the_tomb_rider](https://youtu.be/zLRA11HOedc?t=1897)| Shadow of the Tomb Raider tuleb välja |
-| [00:34:10][dying_light](https://youtu.be/zLRA11HOedc?t=2050)| Dying Light: Bad Blood tuleb välja |
-| [00:36:40][pubg](https://youtu.be/zLRA11HOedc?t=2200)| PUBGi lumekaart |
-| [00:39:51][forza_horizon_4](https://youtu.be/zLRA11HOedc?t=2391)| Forza Horizon 4-ile tuleb James Bondi autode DLC |
-| [00:41:24][frozen_synapse_2](https://youtu.be/zLRA11HOedc?t=2484)| Frozen Synapse 2 |
-| [00:42:31][a_hat_in_time](https://youtu.be/zLRA11HOedc?t=2551)| A Hat in Time CO-OP DLC  |
-| [00:42:55][steam](https://youtu.be/zLRA11HOedc?t=2575)| Steam saab 15 aastat vanaks |
-| [00:45:14][mängud](https://youtu.be/zLRA11HOedc?t=2714)| MÄNGUD  |
-| [00:45:23][call_of_duty_4](https://youtu.be/zLRA11HOedc?t=2723)| Call of Duty: Black Ops 4 Blackout |
-| [01:05:44][donut_county](https://youtu.be/zLRA11HOedc?t=3944)| Donut County |
-| [01:13:31][soodne](https://youtu.be/zLRA11HOedc?t=4411)| Soodsad Mängud |
-| [01:18:58][outro](https://youtu.be/zLRA11HOedc?t=4738)| OUTRO |
-
-
-## #328 // 07/09/2018
-| aeg | teema |
-|-----|-------|
-| [00:00:11][intro](https://youtu.be/BMc5LkMqtRY?t=11)| INTRO  |
-| [00:05:41][uudised](https://youtu.be/BMc5LkMqtRY?t=341)| UUDISED |
-| [00:05:51][battle_royal](https://youtu.be/BMc5LkMqtRY?t=351)| Battle Royal'i uudised |
-| [00:12:45][bf_5](https://youtu.be/BMc5LkMqtRY?t=765)| Battlefield V |
-| [00:13:44 ][kingdoms_of_amalur](https://youtu.be/BMc5LkMqtRY?t=824)| Kingdoms of Amalur'i õigused osteti ära |
-| [00:18:03][runescape](https://youtu.be/BMc5LkMqtRY?t=1083)| RuneScape tuleb telefonidele |
-| [00:19:39][witcher](https://youtu.be/BMc5LkMqtRY?t=1179)| Netflixi Gerald on teada |
-| [00:24:15][cs_go](https://youtu.be/BMc5LkMqtRY?t=1455)| CS:GO sai tasuta versiooni |
-| [00:26:40][prison_architect](https://youtu.be/BMc5LkMqtRY?t=1600)| Prison:Architect saab co-op versiooni |
-| [00:29:46][thumper](https://youtu.be/BMc5LkMqtRY?t=1786)| Thumper tuleb Oculus GO'le |
-| [00:33:24][mängud](https://youtu.be/BMc5LkMqtRY?t=2004)| MÄNGUD |
-| [00:33:32][spider_man](https://youtu.be/BMc5LkMqtRY?t=2012)| Marvel's Spider-Man |
-| [00:55:12][two_point_hospital](https://youtu.be/BMc5LkMqtRY?t=3312)| Two Point Hospital |
-| [01:14:54][soodne](https://youtu.be/BMc5LkMqtRY?t=4494)| Soodsad mängud |
-| [01:18:45][outro](https://youtu.be/BMc5LkMqtRY?t=4725)| OUTRO |
 
 ## #329 // 14/09/2018
 | aeg | teema |
