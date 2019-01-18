@@ -41,8 +41,6 @@
 | [01:20:27][soodne](https://youtu.be/qS1ukft0ToY?t=4827)| Soodsad mängud |
 | [01:26:27][outro](https://youtu.be/qS1ukft0ToY?t=5187)| OUTRO |
 
-
-
 ## #344 // 04/01/2019
 | aeg | teema |
 |-----|-------|
@@ -84,8 +82,6 @@
 | [01:29:15][top_3+1](https://youtu.be/wit5LWm5u3s?t=5355)| Saatejuhtide 2018 top 3+1 |
 | [02:16:51][outro](https://youtu.be/wit5LWm5u3s?t=8211)| OUTRO |
 
-
-
 ## #342 // 14/12/2018
 | aeg | teema |
 |-----|-------|
@@ -110,8 +106,6 @@
 | [01:45:58][hitman_2](https://youtu.be/U7GPxwhudaI?t=6358)| Hitman 2 |
 | [01:50:25][soodne](https://youtu.be/U7GPxwhudaI?t=6625)| Soodsad mängud |
 | [01:53:21][outro](https://youtu.be/U7GPxwhudaI?t=6801)| OUTRO  |
-
-
 
 ## #341 // 07/12/2018
 | aeg | teema |
@@ -139,7 +133,6 @@
 | [01:23:08][dark_souls](https://youtu.be/0guOD4xAAd4?t=4988)| Dark Souls: Remastered |
 | [01:31:05][soodne](https://youtu.be/0guOD4xAAd4?t=5465)| Soodsad mängud |
 | [01:34:02][outro](https://youtu.be/0guOD4xAAd4?t=5642)| OUTRO |
-
 
 ## #340 // 30/11/2018
 | aeg | teema |
@@ -182,8 +175,6 @@
 | [01:16:10][dont_starve_hamlet](https://youtu.be/FKkEYnD1pMo?t=4570)| Don't Starve: Hamlet |
 | [01:22:33][soodne](https://youtu.be/FKkEYnD1pMo?t=4953)| Soodsad mängud |
 | [01:27:36][outro](https://youtu.be/FKkEYnD1pMo?t=5256)| OUTRO |
-
-
 
 ## #338 // 16/11/2018
 | aeg | teema |
@@ -235,7 +226,6 @@
 | [01:38:10][moo](https://youtu.be/rn7WB3455yw?t=5890)| MängudeÖÖ tuleb |
 | [01:40:57][outro](https://youtu.be/rn7WB3455yw?t=6057)| OUTRO |
 
-
 ## #336 // 02/11/2018
 | aeg | teema |
 |-----|-------|
@@ -256,7 +246,6 @@
 | [01:29:04][neurogaming](https://youtu.be/WbpWgV0O-Y8?t=5344)| Neurogaming: Location base VR |
 | [01:35:55][soodne](https://youtu.be/WbpWgV0O-Y8?t=5755)| Soodsad mängud |
 | [01:38:14][outro](https://youtu.be/WbpWgV0O-Y8?t=5894)| OUTRO |
-
 
 ## # 335 // 26/10/2018
 | aeg | teema |
@@ -284,7 +273,6 @@
 | [01:42:22][soodne](https://youtu.be/rNPRvoqy0Ik?t=6142)| Soodsad mängud |
 | [01:49:26][outro](https://youtu.be/rNPRvoqy0Ik?t=6566)| OUTRO  |
 
-
 ## #334 // 19/10/2018
 | aeg | teema |
 |-----|-------|
@@ -304,7 +292,6 @@
 | [01:15:09][god_of_war](https://youtu.be/nCW4bnHjgKc?t=4509)| God of War |
 | [01:29:04][soodne](https://youtu.be/nCW4bnHjgKc?t=5344)| Soodsad mängud |
 | [01:36:35][outro](https://youtu.be/nCW4bnHjgKc?t=5795)| OUTRO |
-
 
 ## #333 // 12/10/2018
 | aeg | teema |
@@ -333,7 +320,6 @@
 | [01:14:42][soodne](https://youtu.be/gvDonft8RQw?t=4482)| Soodsad mängud |
 | [01:16:44][outro](https://youtu.be/gvDonft8RQw?t=4604)| OUTRO |
 
-
 ## #332 // 05/10/2018
 | aeg | teema |
 |-----|-------|
@@ -354,7 +340,6 @@
 | [01:22:27][farcry_5](https://youtu.be/wh-YmieoWYg?t=4947)| Far Cry 5: Dead Living Zombies |
 | [01:26:29][soodne](https://youtu.be/wh-YmieoWYg?t=5189)| Soodsad mängud |
 | [01:30:30][outro](https://youtu.be/wh-YmieoWYg?t=5430)| OUTRO |
-
 
 ## #331 // 28/09/2018
 | aeg | teema |
@@ -379,7 +364,6 @@
 | [01:33:25][c_and_c](https://youtu.be/2QtjVFd5mwU?t=5605)| C&C netis tasuta mängitav |
 | [01:35:40][soodne](https://youtu.be/2QtjVFd5mwU?t=5740)| Soodsad mängud |
 | [01:37:47][outro](https://youtu.be/2QtjVFd5mwU?t=5867)| OUTRO |
-
 
 ## #330 // 21/09/2018
 | aeg | teema |
@@ -426,7 +410,6 @@
 | [01:13:31][soodne](https://youtu.be/zLRA11HOedc?t=4411)| Soodsad Mängud |
 | [01:18:58][outro](https://youtu.be/zLRA11HOedc?t=4738)| OUTRO |
 
-
 ## #328 // 07/09/2018
 | aeg | teema |
 |-----|-------|
@@ -471,7 +454,6 @@
 | [01:13:15][soodne](https://youtu.be/foVXEp0H94Y?t=4395)| Soodsad mängud |
 | [01:19:41][outro](https://youtu.be/foVXEp0H94Y?t=4781)| OUTRO |
 
-
 ## #326 // 24/08/2018
 | aeg | teema |
 |-----|-------|
@@ -493,7 +475,6 @@
 | [01:10:15][soodne](https://youtu.be/xsUGLDhP45Y?t=4215)| Soodsad mängud |
 | [01:15:52][outro](https://youtu.be/xsUGLDhP45Y?t=4552)| OUTRO |
 
-
 ## #325 // 17/08/2018
 | aeg | teema |
 |-----|-------|
@@ -513,7 +494,6 @@
 | [00:55:17][warioware_gold](https://youtu.be/9Sjb0KTE1wI?t=3317)| WarioWare Gold |
 | [01:03:27][soodne](https://youtu.be/9Sjb0KTE1wI?t=3807)| Soodsad mängud |
 | [01:06:32][outro](https://youtu.be/9Sjb0KTE1wI?t=3992)| OUTRO |
-
 
 ## #324 // 10/08/2018
 | aeg | teema |
@@ -538,7 +518,6 @@
 | [01:11:46][gow](https://youtu.be/raAttWIFjTY?t=4306)| God of War |
 | [01:14:43][soodne](https://youtu.be/raAttWIFjTY?t=4483)| Soodsad mängud |
 | [01:20:53][outro](https://youtu.be/raAttWIFjTY?t=4853)| OUTRO |
-
 
 ## #323 // 03/08/2018
 | aeg | teema |
@@ -588,7 +567,6 @@
 | [01:30:07][soodne](https://youtu.be/SBWTKj-xQLU?t=5407)| Soodsad mängud |
 | [01:35:05][outro](https://youtu.be/SBWTKj-xQLU?t=5705)| OUTRO |
 
-
 ## #321 // 20/07/2018
 | aeg | teema |
 |-----|-------|
@@ -613,7 +591,6 @@
 | [01:14:33][soodne](https://youtu.be/7XZF1XBQlZA?t=4473)| Soodsad mängud |
 | [01:26:52][outro](https://youtu.be/7XZF1XBQlZA?t=5212)| OUTRO |
 
-
 ## #320 // 13/07/2018
 | aeg | teema |
 |-----|-------|
@@ -635,7 +612,6 @@
 | [01:42:43][compound](https://youtu.be/-fHp_z3eYm8?t=6163)| Compound |
 | [01:43:57][soodne](https://youtu.be/-fHp_z3eYm8?t=6237)| Soodsad mängud |
 | [01:47:35][outro](https://youtu.be/-fHp_z3eYm8?t=6455)| OUTRO |
-
 
 ## #319 // 06/07/2018
 | aeg | teema |
@@ -660,9 +636,6 @@
 | [01:36:22][lumines](https://youtu.be/j5FILlbNmKs?t=5782)| Lumines HD |
 | [01:38:54][soodne](https://youtu.be/j5FILlbNmKs?t=5934)| Soodsad mängud |
 | [01:45:09][outro](https://youtu.be/j5FILlbNmKs?t=6309)| OUTRO |
-
-
-
 
 
 
