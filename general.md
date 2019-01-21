@@ -637,6 +637,27 @@
 | [01:38:54](https://youtu.be/j5FILlbNmKs?t=5934)| Soodsad mängud |
 | [01:45:09](https://youtu.be/j5FILlbNmKs?t=6309)| OUTRO |
 
+## #318 // 29/06/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:14](https://youtu.be/_Do_a4VC7Nc?t=14)| INTRO |
+| [00:11:12](https://youtu.be/_Do_a4VC7Nc?t=672)| UUDISED |
+| [00:11:23](https://youtu.be/_Do_a4VC7Nc?t=683)| Amy Hennig lahkus EA-st  |
+| [00:16:02](https://youtu.be/_Do_a4VC7Nc?t=962)| Battle Royale uudised |
+| [00:19:00](https://youtu.be/_Do_a4VC7Nc?t=1140)| Mario Karti saab Laboga mängida |
+| [00:20:50](https://youtu.be/_Do_a4VC7Nc?t=1250)| Bethesda kaebab Westworldi kohtusse |
+| [00:23:49](https://youtu.be/_Do_a4VC7Nc?t=1429)| Noclip Fallout 76 |
+| [00:27:23](https://youtu.be/_Do_a4VC7Nc?t=1643)| Overwatch saab uue tegelase |
+| [00:29:26](https://youtu.be/_Do_a4VC7Nc?t=1766)| MÄNGUD |
+| [00:29:37](https://youtu.be/_Do_a4VC7Nc?t=1777)| The Crew 2 |
+| [00:37:44](https://youtu.be/_Do_a4VC7Nc?t=2264)| Don't Starve: The Gorge |
+| [00:43:33](https://youtu.be/_Do_a4VC7Nc?t=2613)| Tomb Raider 2 |
+| [00:49:38](https://youtu.be/_Do_a4VC7Nc?t=2978)| Mario Tennis Aces |
+| [00:57:29](https://youtu.be/_Do_a4VC7Nc?t=3449)| Lumines |
+| [01:00:51](https://youtu.be/_Do_a4VC7Nc?t=3651)| Oculus Go |
+| [01:11:51](https://youtu.be/_Do_a4VC7Nc?t=4311)| Soodsad mängud |
+| [01:18:11](https://youtu.be/_Do_a4VC7Nc?t=4691)| OUTRO |
+
 
 
 
