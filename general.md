@@ -1,5 +1,4 @@
 #2019
-<<<<<<< HEAD
 ## #349 // 08/02/2019
 | aeg | teema |
 |-----|-------|
@@ -65,8 +64,6 @@
 | [01:21:09](https://youtu.be/ZvcBhYDYn34?t=4869)| Soodsad mängud |
 | [01:25:07](https://youtu.be/ZvcBhYDYn34?t=5107)| OUTRO |
 
-=======
->>>>>>> 2b0f473685c527f48c507bb0d4efe5c71d625ccb
 ## #346 // 18/01/2019
 | aeg | teema |
 |-----|-------|
@@ -726,7 +723,7 @@
 | [01:11:51](https://youtu.be/_Do_a4VC7Nc?t=4311)| Soodsad mängud |
 | [01:18:11](https://youtu.be/_Do_a4VC7Nc?t=4691)| OUTRO |
 
-<<<<<<< HEAD
+
 ## #317 // 22/06/2018
 | aeg | teema |
 |-----|-------|
@@ -1117,10 +1114,6 @@
 | [01:02:58](https://youtu.be/5YA7xti_C_s?t=3778)| Uued mängud |
 | [01:04:05](https://youtu.be/5YA7xti_C_s?t=3845)| Soodsad mängud |
 | [01:07:46](https://youtu.be/5YA7xti_C_s?t=4066)| OUTRO |
-
-
-=======
->>>>>>> 2b0f473685c527f48c507bb0d4efe5c71d625ccb
 
 
 
