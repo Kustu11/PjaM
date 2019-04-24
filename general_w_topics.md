@@ -1,4 +1,241 @@
 #2019
+## #359 // 19/04/2019
+| aeg | teema |
+|-----|-------|
+| [00:00:05][intro](https://youtu.be/YuEAkfsX1YQ?t=5)| INTRO |
+| [00:09:13][uudised](https://youtu.be/YuEAkfsX1YQ?t=553)| UUDISED |
+| [00:09:24][ps5](https://youtu.be/YuEAkfsX1YQ?t=564)| PS5 detailid |
+| [00:41:03][arendused_mängud](https://youtu.be/YuEAkfsX1YQ?t=2463)| Arenduses olevad mängud |
+| [00:46:25][uus_xbox](https://youtu.be/YuEAkfsX1YQ?t=2785)| Uus XBOX All Digital |
+| [00:52:46][star_wars](https://youtu.be/YuEAkfsX1YQ?t=3166)| Uus Star Wars |
+| [00:58:46][capcom](https://youtu.be/YuEAkfsX1YQ?t=3526)| CapComi minikonsool |
+| [01:01:36][forza_street](https://youtu.be/YuEAkfsX1YQ?t=3696)| Forza Street |
+| [01:03:09][witcher](https://youtu.be/YuEAkfsX1YQ?t=3789)| Witcheri seriaal |
+| [01:35:34][super_smash_bros_ultimate_level_editor](https://youtu.be/YuEAkfsX1YQ?t=5734)| Super Smash Bros. Ultimate |
+| [01:07:42][mängud](https://youtu.be/YuEAkfsX1YQ?t=4062)| MÄNGUd |
+| [01:07:52][stone](https://youtu.be/YuEAkfsX1YQ?t=4072)| Stone |
+| [01:14:34][dangerous_driving](https://youtu.be/YuEAkfsX1YQ?t=4474)| Dangerous Driving |
+| [01:20:48][yoshis_crafted_world](https://youtu.be/YuEAkfsX1YQ?t=4848)| Yoshi's Crafted World |
+| [01:24:56][sekiro_sdt](https://youtu.be/YuEAkfsX1YQ?t=5096)| Sekiro: Shadows Die Twice |
+| [01:31:53][soodne](https://youtu.be/YuEAkfsX1YQ?t=5513)| Soodsad mängud |
+| [01:39:41][outro](https://youtu.be/YuEAkfsX1YQ?t=5981)| OUTRO |
+
+
+
+## #358 // 12/04/2019
+| aeg | teema |
+|-----|-------|
+| [00:00:24][intro](https://youtu.be/hAEM3iV0EI0?t=24)| INTRO |
+| [00:11:13][uudised](https://youtu.be/hAEM3iV0EI0?t=673)| UUDISED |
+| [00:11:22][overstep](https://youtu.be/hAEM3iV0EI0?t=682)| Overstep GDD-l |
+| [00:22:23][gdd](https://youtu.be/hAEM3iV0EI0?t=1343)| GDD muud uudised |
+| [00:29:52][nintendo_vr](https://youtu.be/hAEM3iV0EI0?t=1792)| Nintendo Labo VR |
+| [00:39:06][rasked_mängud](https://youtu.be/hAEM3iV0EI0?t=2346)| Kui rasked mängud peaks olema? |
+| [00:55:37][dragon_age_4](https://youtu.be/hAEM3iV0EI0?t=3337)| Dragon Age 4 tulevik  |
+| [01:00:50][ps](https://youtu.be/hAEM3iV0EI0?t=3650)| PS kasutajanime vahetamine |
+| [01:04:35][mängud](https://youtu.be/hAEM3iV0EI0?t=3875)| MÄNGUD |
+| [01:04:43][yoshis_crafted_world](https://youtu.be/hAEM3iV0EI0?t=3883)| Yoshi's Crafted World |
+| [01:14:01][sekiro_sdt](https://youtu.be/hAEM3iV0EI0?t=4441)| Sekiro: Shadows Die Twice |
+| [01:25:28][myz_rte](https://youtu.be/hAEM3iV0EI0?t=5128)| Mutant Year Zero: Road to Eden |
+| [01:32:22][soodne](https://youtu.be/hAEM3iV0EI0?t=5542)| Soodsad mängud |
+| [01:35:32][outro](https://youtu.be/hAEM3iV0EI0?t=5732)| OUTRO |
+
+
+
+## #357 // 05/04/2019
+| aeg | teema |
+|-----|-------|
+| [00:00:04][intro](https://youtu.be/Lztu-8qz30I?t=4)| INTRO |
+| [00:05:03][uudised](https://youtu.be/Lztu-8qz30I?t=303)| UUDISED |
+| [00:05:13][borderlands_3](https://youtu.be/Lztu-8qz30I?t=313)| Borderlands 3 |
+| [00:18:14][bullet_storm](https://youtu.be/Lztu-8qz30I?t=1094)| Bullet Storm Switchile |
+| [00:18:46][E3](https://youtu.be/Lztu-8qz30I?t=1126)| E3-me kõlakad |
+| [00:20:58][anthem](https://youtu.be/Lztu-8qz30I?t=1258)| Anthemi lugu Kotakus |
+| [00:27:17][vr](https://youtu.be/Lztu-8qz30I?t=1637)| VR uudised |
+| [00:35:34][ps](https://youtu.be/Lztu-8qz30I?t=2134)| PS mängude eest saab raha tagasi osta |
+| [00:37:12][blackout](https://youtu.be/Lztu-8qz30I?t=2232)| Blackout on tasuta mängitav |
+| [00:38:16][driveclub](https://youtu.be/Lztu-8qz30I?t=2296)| Driveclub pannakse kinni |
+| [00:40:09][sega](https://youtu.be/Lztu-8qz30I?t=2409)| SEGA Megadrive Mini |
+| [00:45:26][mängud](https://youtu.be/Lztu-8qz30I?t=2726)| MÄNGUD |
+| [00:45:37][twd](https://youtu.be/Lztu-8qz30I?t=2737)| The Walking Dead |
+| [00:58:44][myz_rte](https://youtu.be/Lztu-8qz30I?t=3524)| Mutant Year Zero: Road to Eden |
+| [01:10:12][sekiro_sdt](https://youtu.be/Lztu-8qz30I?t=4212)| Sekiro: Shadows Die Twice |
+| [01:19:02][ape_out](https://youtu.be/Lztu-8qz30I?t=4742)| Ape Out |
+| [01:24:26][soodne](https://youtu.be/Lztu-8qz30I?t=5066)| Soodsad mängud |
+| [01:29:22][outro](https://youtu.be/Lztu-8qz30I?t=5362)| OUTRO |
+
+
+
+## #356 // 29/03/2019
+| aeg | teema |
+|-----|-------|
+| [00:00:14][intro](https://youtu.be/41ENpNrJlp0?t=14)| INTRO |
+| [00:07:34][uudised](https://youtu.be/41ENpNrJlp0?t=454)| UUDISED |
+| [00:09:07][apple_arcade](https://youtu.be/41ENpNrJlp0?t=547)| Apple Arcade |
+| [00:18:03][switch](https://youtu.be/41ENpNrJlp0?t=1083)| Uus Switch tuleb |
+| [00:22:00][vampire](https://youtu.be/41ENpNrJlp0?t=1320)| Vampire: The Masquerade |
+| [00:24:02][divinity_fh](https://youtu.be/41ENpNrJlp0?t=1442)| Divinity: Fallen Heroes |
+| [00:25:09][warcraft](https://youtu.be/41ENpNrJlp0?t=1509)| Warcraft 1 ja 2 on saadaval |
+| [00:28:42][sony](https://youtu.be/41ENpNrJlp0?t=1722)| Sony mängude koode ei saa varsti enam kasutada |
+| [00:31:31][ps](https://youtu.be/41ENpNrJlp0?t=1891)| PlayStationi uudised |
+| [00:39:20][wolfenstein_yb](https://youtu.be/41ENpNrJlp0?t=2360)| Wolfenstein: Youngblood |
+| [00:43:58][NKFC eSPORTS](https://youtu.be/41ENpNrJlp0?t=2638)| Nõmme Kalju E-spordi tiim |
+| [00:47:26][mängud](https://youtu.be/41ENpNrJlp0?t=2846)| MÄNGUD |
+| [00:47:36][sekiro_sdt](https://youtu.be/41ENpNrJlp0?t=2856)| Sekiro: Shadows Die Twice |
+| [01:12:40][bf_5](https://youtu.be/41ENpNrJlp0?t=4360)| Battlefield 5: Firestorm |
+| [01:26:39][dmc_5](https://youtu.be/41ENpNrJlp0?t=5199)| Devil May Cry 5 |
+| [01:29:50][dead_cells](https://youtu.be/41ENpNrJlp0?t=5390)| Dead Cells |
+| [01:31:08][ape_escape_2](https://youtu.be/41ENpNrJlp0?t=5468)| Ape Escape 2 |
+| [01:35:10][soodne](https://youtu.be/41ENpNrJlp0?t=5710)| Soodsad mängud |
+| [01:37:45][outro](https://youtu.be/41ENpNrJlp0?t=5865)| OUTRO |
+
+
+
+## #355 // 22/03/2019
+| aeg | teema |
+|-----|-------|
+| [00:00:09][intro](https://youtu.be/ZkzmPKjci7Y?t=9)| INTRO |
+| [00:09:48][uudised](https://youtu.be/ZkzmPKjci7Y?t=588)| UUDISED |
+| [00:09:57][dmc_5](https://youtu.be/ZkzmPKjci7Y?t=597)| Devil May Cry 5 |
+| [00:21:21][stadia](https://youtu.be/ZkzmPKjci7Y?t=1281)| Google Stadia |
+| [00:49:37][oculus_rift_s](https://youtu.be/ZkzmPKjci7Y?t=2977)| Oculus Rift S |
+| [00:57:52][epic](https://youtu.be/ZkzmPKjci7Y?t=3472)| Epic loeb Steami infot |
+| [00:59:44][quantic_dream](https://youtu.be/ZkzmPKjci7Y?t=3584)| Quantic Dreami mängud tulevad Epicu poodi |
+| [01:01:37][epic](https://youtu.be/ZkzmPKjci7Y?t=3697)| Epicu poe eksklusiivid |
+| [01:09:02][switch](https://youtu.be/ZkzmPKjci7Y?t=4142)| Mängud Switchile |
+| [01:13:04][apex](https://youtu.be/ZkzmPKjci7Y?t=4384)| Apex Legendsi esimene Battle Pass |
+| [01:15:40][lucas_arts](https://youtu.be/ZkzmPKjci7Y?t=4540)| Lucas Arts Games |
+| [01:16:46][konami](https://youtu.be/ZkzmPKjci7Y?t=4606)| Vanad Konami mängud |
+| [01:19:16][mängud](https://youtu.be/ZkzmPKjci7Y?t=4756)| MÄNGUD |
+| [01:19:24][the_colonists](https://youtu.be/ZkzmPKjci7Y?t=4764)| The Colonists |
+| [01:25:03][dmc_5](https://youtu.be/ZkzmPKjci7Y?t=5103)| Devil May Cry 5 |
+| [01:30:16][beat_saber](https://youtu.be/ZkzmPKjci7Y?t=5416)| Beat Saber |
+| [01:31:40][doa_6](https://youtu.be/ZkzmPKjci7Y?t=5500)| Dead or Alive 6 Core Fighters |
+| [01:35:51][re_2](https://youtu.be/ZkzmPKjci7Y?t=5751)| Resident Evil 2 |
+| [01:39:26][soodne](https://youtu.be/ZkzmPKjci7Y?t=5966)| Soodsad mängud |
+| [01:42:21][outro](https://youtu.be/ZkzmPKjci7Y?t=6141)| OUTRO |
+
+
+
+## #354 // 15/03/2019
+| aeg | teema |
+|-----|-------|
+| [00:00:02][intro](https://youtu.be/K6C1F01mfl0?t=2)| INTRO |
+| [00:06:41][uudised](https://youtu.be/K6C1F01mfl0?t=401)| UUDISED |
+| [00:06:53][microsoft](https://youtu.be/K6C1F01mfl0?t=413)| Microsofti uudised |
+| [00:18:02][ps_now](https://youtu.be/K6C1F01mfl0?t=1082)| PS Now nüüd Eestis |
+| [00:31:31][halo](https://youtu.be/K6C1F01mfl0?t=1891)| Halo PC-l |
+| [00:34:46][gdc](https://youtu.be/K6C1F01mfl0?t=2086)| GDC ootused |
+| [00:40:06][back_4_blood](https://youtu.be/K6C1F01mfl0?t=2406)| Back 4 Blood |
+| [00:43:24][pubg](https://youtu.be/K6C1F01mfl0?t=2604)| PUGB player unknown lahkub |
+| [00:48:03][bf_5](https://youtu.be/K6C1F01mfl0?t=2883)| BF 5 Firestorm |
+| [00:51:21][doom](https://youtu.be/K6C1F01mfl0?t=3081)| Doomi film |
+| [00:52:33][overstep](https://youtu.be/K6C1F01mfl0?t=3153)| Eesti mäng Overstep |
+| [00:54:59][wrath_aor](https://youtu.be/K6C1F01mfl0?t=3299)| Wrath: Aeon of Ruin |
+| [00:56:38][beat_saber](https://youtu.be/K6C1F01mfl0?t=3398)| Beat Saber DLC |
+| [00:59:45][mängud](https://youtu.be/K6C1F01mfl0?t=3585)| MÄNGUD |
+| [00:59:54][dmc_5](https://youtu.be/K6C1F01mfl0?t=3594)| Devil May Cry 5 |
+| [01:11:22][re_2](https://youtu.be/K6C1F01mfl0?t=4282)| Resident Evil 2 |
+| [01:19:02][metro_exodus](https://youtu.be/K6C1F01mfl0?t=4742)| Metro Exodus |
+| [01:21:44][diablo](https://youtu.be/K6C1F01mfl0?t=4904)| Diablo 1 |
+| [01:32:05][soodne](https://youtu.be/K6C1F01mfl0?t=5525)| Soodsad mängud |
+| [01:37:56][outro](https://youtu.be/K6C1F01mfl0?t=5876)| OUTRO |
+
+
+
+## #353 // 08/03/2019
+| aeg | teema |
+|-----|-------|
+| [00:00:17][intro](https://youtu.be/3Y_NuHMwxsI?t=17)| INTRO |
+| [00:07:02][uudised](https://youtu.be/3Y_NuHMwxsI?t=422)| UUDISED |
+| [00:07:13][nintendo](https://youtu.be/3Y_NuHMwxsI?t=433)| Nintendo kuulutas Labo VR kiti välja |
+| [00:20:16][anthem](https://youtu.be/3Y_NuHMwxsI?t=1216)| Anthem on katki |
+| [00:26:03][diablo](https://youtu.be/3Y_NuHMwxsI?t=1563)| Diablo 1, Warcraft 1 ja 2 |
+| [00:35:37][xbox](https://youtu.be/3Y_NuHMwxsI?t=2137)| Uued XBoxid |
+| [00:39:00][apex](https://youtu.be/3Y_NuHMwxsI?t=2340)| Apex Legends |
+| [00:44:42][sonic](https://youtu.be/3Y_NuHMwxsI?t=2682)| Sonic filmis |
+| [00:48:16][mängud](https://youtu.be/3Y_NuHMwxsI?t=2896)| MÄNGUD |
+| [00:48:25][dirt_rally](https://youtu.be/3Y_NuHMwxsI?t=2905)| Dirt Rally 2.0 |
+| [01:00:52][fifa](https://youtu.be/3Y_NuHMwxsI?t=3652)| Fifa |
+| [01:01:31][ape_out](https://youtu.be/3Y_NuHMwxsI?t=3691)| Ape Out |
+| [01:05:34][crackdown_3](https://youtu.be/3Y_NuHMwxsI?t=3934)| Crackdown 3 |
+| [01:08:00][soodne](https://youtu.be/3Y_NuHMwxsI?t=4080)| Soodsad mängud |
+| [01:11:43][outro](https://youtu.be/3Y_NuHMwxsI?t=4303)| OUTRO |
+
+
+
+## #352 // 01/03/2019
+| aeg | teema |
+|-----|-------|
+| [00:00:08][intro](https://youtu.be/UQD2k7sKWXQ?t=8)| INTRO |
+| [00:05:51][uudised](https://youtu.be/UQD2k7sKWXQ?t=351)| UUDISED |
+| [00:06:02][ps_plus](https://youtu.be/UQD2k7sKWXQ?t=362)| PS Plus-is on nüüd 2 mängu |
+| [00:12:52][gamepass](https://youtu.be/UQD2k7sKWXQ?t=772)| Gamepass tuleb Switchile ja Arvutile |
+| [00:15:46][ps_now](https://youtu.be/UQD2k7sKWXQ?t=946)| PS Now Beta |
+| [00:20:42][re](https://youtu.be/UQD2k7sKWXQ?t=1242)| Resident Evil Switchil |
+| [00:24:25][gtx_1660](https://youtu.be/UQD2k7sKWXQ?t=1465)| GTX 1660  |
+| [00:29:55][nintendo](https://youtu.be/UQD2k7sKWXQ?t=1795)| Nintendo USA uus boss |
+| [00:32:06][nintendo](https://youtu.be/UQD2k7sKWXQ?t=1926)| Nintendo Direct |
+| [00:34:37][fortnite](https://youtu.be/UQD2k7sKWXQ?t=2077)| Fortnite uus hooaeg  |
+| [00:36:16][rdo](https://youtu.be/UQD2k7sKWXQ?t=2176)| Red Ded Online |
+| [00:41:39][stardew_valley](https://youtu.be/UQD2k7sKWXQ?t=2499)| Stardew Valley mobiilidel |
+| [00:43:26][overkills_twd](https://youtu.be/UQD2k7sKWXQ?t=2606)| Overkill's The Walking Dead |
+| [00:46:04][mängud](https://youtu.be/UQD2k7sKWXQ?t=2764)| MÄNGUD |
+| [00:46:13][fc_nd](https://youtu.be/UQD2k7sKWXQ?t=2773)| Far Cry New Dawn |
+| [00:52:21][crackdown_3](https://youtu.be/UQD2k7sKWXQ?t=3141)| Crackdown 3 |
+| [00:57:55][metro_exodus](https://youtu.be/UQD2k7sKWXQ?t=3475)| Metro Exodus |
+| [01:12:42][re_2](https://youtu.be/UQD2k7sKWXQ?t=4362)| Resident Evil 2 |
+| [01:18:35][apex](https://youtu.be/UQD2k7sKWXQ?t=4715)| Apex Legends |
+| [01:20:53][soodne](https://youtu.be/UQD2k7sKWXQ?t=4853)| Soodsad mängud |
+| [01:25:05][outro](https://youtu.be/UQD2k7sKWXQ?t=5105)| OUTRO |
+
+
+
+## #351 // 22/02/2019
+| aeg | teema |
+|-----|-------|
+| [00:00:05][intro](https://youtu.be/eKkcyTfCuf4?t=5)| INTRO |
+| [00:07:44][uudised](https://youtu.be/eKkcyTfCuf4?t=464)| UUDISED |
+| [00:07:53][anthem](https://youtu.be/eKkcyTfCuf4?t=473)| Anthem on halb |
+| [00:19:34][dreams](https://youtu.be/eKkcyTfCuf4?t=1174)| Dreams PS4-l |
+| [00:21:31][darkest_dungeon_2](https://youtu.be/eKkcyTfCuf4?t=1291)| Darkest Dungeon 2 tuleb |
+| [00:25:50][cod_bo4](https://youtu.be/eKkcyTfCuf4?t=1550)| Call of Duty: Black Ops 4 saab lootboxid |
+| [00:30:57][razer](https://youtu.be/eKkcyTfCuf4?t=1857)| Razeri mängupood pannakse kinni |
+| [00:32:37][pubg](https://youtu.be/eKkcyTfCuf4?t=1957)| PUGBi mobiili uuendus |
+| [00:34:39][dead_cells](https://youtu.be/eKkcyTfCuf4?t=2079)| Dead Cells |
+| [00:37:41][mängud](https://youtu.be/eKkcyTfCuf4?t=2261)| MÄNGUD |
+| [00:37:52][fc_nd](https://youtu.be/eKkcyTfCuf4?t=2272)| Far Cry New Dawn |
+| [00:54:39][metro_exodus](https://youtu.be/eKkcyTfCuf4?t=3279)| Metro Exodus |
+| [01:12:36][crackdown_3](https://youtu.be/eKkcyTfCuf4?t=4356)| Crackdown 3 |
+| [01:29:19][tetris_99](https://youtu.be/eKkcyTfCuf4?t=5359)| Tetris 99 |
+| [01:32:37][minecraft](https://youtu.be/eKkcyTfCuf4?t=5557)| Minecraft |
+| [01:39:20][apex](https://youtu.be/eKkcyTfCuf4?t=5960)| Apex Legends |
+| [01:44:14][re_2](https://youtu.be/eKkcyTfCuf4?t=6254)| Resident Evil 2 |
+| [01:49:36][soodne](https://youtu.be/eKkcyTfCuf4?t=6576)| Soodsad mängud |
+| [01:51:57][outro](https://youtu.be/eKkcyTfCuf4?t=6717)| OUTRO |
+
+
+
+## #350 // 15/02/2019
+| aeg | teema |
+|-----|-------|
+| [00:16:16][intro](https://youtu.be/whUVpxKC2Sk?t=976)| INTRO |
+| [00:26:54][mängud](https://youtu.be/whUVpxKC2Sk?t=1614)| MÄNGUD |
+| [00:27:03][voidship](https://youtu.be/whUVpxKC2Sk?t=1623)| Voidship: The Long Journey |
+| [00:40:13][uudised](https://youtu.be/whUVpxKC2Sk?t=2413)| UUDISED |
+| [00:40:23][nintendo](https://youtu.be/whUVpxKC2Sk?t=2423)| Nintendo uudised |
+| [00:49:34][apex](https://youtu.be/whUVpxKC2Sk?t=2974)| Apex Legends |
+| [00:55:08][activision](https://youtu.be/whUVpxKC2Sk?t=3308)| Activision vallandab |
+| [01:04:12][uued_mangud](https://youtu.be/whUVpxKC2Sk?t=3852)| Uued mängud |
+| [01:14:52][thq_nordic](https://youtu.be/whUVpxKC2Sk?t=4492)| THQ Nordic ostab |
+| [01:17:01][mängud](https://youtu.be/whUVpxKC2Sk?t=4621)| MÄNGUD |
+| [01:17:11][angry_birds](https://youtu.be/whUVpxKC2Sk?t=4631)| Angry Birds VR |
+| [01:24:51][re_2](https://youtu.be/whUVpxKC2Sk?t=5091)| Resident Evil 2 |
+| [01:35:41][apex](https://youtu.be/whUVpxKC2Sk?t=5741)| Apex Legends |
+| [01:48:31][retropi](https://youtu.be/whUVpxKC2Sk?t=6511)| RetroPi |
+| [01:50:12][soodne](https://youtu.be/whUVpxKC2Sk?t=6612)| Soodsad mängud |
+| [01:52:50][outro](https://youtu.be/whUVpxKC2Sk?t=6770)| OUTRO |
+
 ## #349 // 08/02/2019
 | aeg | teema |
 |-----|-------|
@@ -1114,6 +1351,299 @@
 | [01:02:58][uued_mängud](https://youtu.be/5YA7xti_C_s?t=3778)| Uued mängud |
 | [01:04:05][soodne](https://youtu.be/5YA7xti_C_s?t=3845)| Soodsad mängud |
 | [01:07:46][outro](https://youtu.be/5YA7xti_C_s?t=4066)| OUTRO |
+
+## #300 // 22/02/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:11][intro](https://youtu.be/mTl_J5tskVQ?t=11)| INTRO |
+| [00:16:02][uudised](https://youtu.be/mTl_J5tskVQ?t=962)| UUDISED |
+| [00:16:12][aoe](https://youtu.be/mTl_J5tskVQ?t=972)| Age of Empire:Definitive Edition |
+| [00:17:37][ac_origins](https://youtu.be/mTl_J5tskVQ?t=1057)| Assassin's Creed: Origins |
+| [00:21:25][nintendo](https://youtu.be/mTl_J5tskVQ?t=1285)| Nintendo rikub seadust |
+| [00:24:21][sonic](https://youtu.be/mTl_J5tskVQ?t=1461)| Mängude filmid: Sonic |
+| [00:26:18][](https://youtu.be/mTl_J5tskVQ?t=1578)|  |
+| [00:26:36][burnout_paradise](https://youtu.be/mTl_J5tskVQ?t=1596)| Burnout Paradise Remastered |
+| [00:30:15][warcraft_3](https://youtu.be/mTl_J5tskVQ?t=1815)| Warcraft III Remaster |
+| [00:35:34][pubg](https://youtu.be/mTl_J5tskVQ?t=2134)| PUBGi uus kaart |
+| [00:40:53][bitcoin](https://youtu.be/mTl_J5tskVQ?t=2453)| Bitcoini mäng |
+| [00:44:53][intro_the_breach](https://youtu.be/mTl_J5tskVQ?t=2693)| Into the Breach |
+| [00:46:49][cheitha](https://youtu.be/mTl_J5tskVQ?t=2809)| Cheitha |
+| [00:50:44][mängud](https://youtu.be/mTl_J5tskVQ?t=3044)| MÄNGUD |
+| [00:50:52][a_hat_in_time](https://youtu.be/mTl_J5tskVQ?t=3052)| A Hat in Time |
+| [01:05:02][pubg](https://youtu.be/mTl_J5tskVQ?t=3902)| PUGB |
+| [01:15:32][hidden_agenda](https://youtu.be/mTl_J5tskVQ?t=4532)| Hidden Agenda |
+| [01:19:27][papers_please](https://youtu.be/mTl_J5tskVQ?t=4767)| Papers Please |
+| [01:21:55][soodne](https://youtu.be/mTl_J5tskVQ?t=4915)| Soodsad mängud |
+| [01:32:40][outro](https://youtu.be/mTl_J5tskVQ?t=5560)| OUTRO |
+
+
+## #299 // 16/02/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:11][intro](https://youtu.be/3asWME_G6Jg?t=11)| INTRO |
+| [00:08:20][uudised](https://youtu.be/3asWME_G6Jg?t=500)| UUDISED |
+| [00:08:31][google](https://youtu.be/3asWME_G6Jg?t=511)| Google mängukonsool |
+| [00:17:29][ps](https://youtu.be/3asWME_G6Jg?t=1049)| Playstationi tulevik |
+| [00:26:18][labo](https://youtu.be/3asWME_G6Jg?t=1578)| Switch Labo |
+| [00:28:24][ps4](https://youtu.be/3asWME_G6Jg?t=1704)| PS4 5.5 uuendus |
+| [00:32:18][mount_your_friends](https://youtu.be/3asWME_G6Jg?t=1938)| Mount Your Friends järg |
+| [00:34:18][evil_within_2](https://youtu.be/3asWME_G6Jg?t=2058)| Evil Within 2 esimese isiku uuendus |
+| [00:35:45][thq_nordic](https://youtu.be/3asWME_G6Jg?t=2145)| Nordic Games ostis THQ ära  |
+| [00:38:09][metroid](https://youtu.be/3asWME_G6Jg?t=2289)| Metroid uus mäng |
+| [00:40:02][mängud](https://youtu.be/3asWME_G6Jg?t=2402)| MÄNGUD |
+| [00:40:11][shadow_of_the_colossus](https://youtu.be/3asWME_G6Jg?t=2411)| Shadow of the Colossus |
+| [00:49:43][virginia](https://youtu.be/3asWME_G6Jg?t=2983)| Virginia |
+| [00:54:44][night_in_the_woods](https://youtu.be/3asWME_G6Jg?t=3284)| Night in the Woods |
+| [01:01:04][analog_nt_mini](https://youtu.be/3asWME_G6Jg?t=3664)| Analog NT Mini/ Super Mario |
+| [01:06:12][soodne](https://youtu.be/3asWME_G6Jg?t=3972)| Soodsad mängud |
+| [01:14:43][outro](https://youtu.be/3asWME_G6Jg?t=4483)| OUTRO |
+
+
+## #298 // 09/02/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:10][intro](https://youtu.be/FIqAWTDzcPI?t=10)| INTRO |
+| [00:07:51][uudised](https://youtu.be/FIqAWTDzcPI?t=471)| UUDISED |
+| [00:08:01][üritused](https://youtu.be/FIqAWTDzcPI?t=481)| TTÜ E-sport ja GGWP võitlusmängude üritus |
+| [00:11:14][fc_5](https://youtu.be/FIqAWTDzcPI?t=674)| Far Cry 5 Season Passi lisapakid |
+| [00:17:47][the_surge](https://youtu.be/FIqAWTDzcPI?t=1067)| The Surge järg |
+| [00:21:41][vampyr](https://youtu.be/FIqAWTDzcPI?t=1301)| Vampyr tuleb välja |
+| [00:25:34][puyo_puyo_tetris](https://youtu.be/FIqAWTDzcPI?t=1534)| Puyo-Puyo Tetris |
+| [00:27:34][kerbal](https://youtu.be/FIqAWTDzcPI?t=1654)| Kerbal Space Program |
+| [00:29:22][shadow_of_war](https://youtu.be/FIqAWTDzcPI?t=1762)| Shadow of War saab lisa |
+| [00:30:39][crash_bandicoot](https://youtu.be/FIqAWTDzcPI?t=1839)| Crash Bandicoot remaster |
+| [00:31:54][switch](https://youtu.be/FIqAWTDzcPI?t=1914)| Switch Eestis |
+| [00:37:20][dawn_of_war](https://youtu.be/FIqAWTDzcPI?t=2240)| Dawn of War ei saa lisa |
+| [00:41:23][mängud](https://youtu.be/FIqAWTDzcPI?t=2483)| MÄNGUD |
+| [00:41:41][monster_hunter_world](https://youtu.be/FIqAWTDzcPI?t=2501)| Monster Hunter World |
+| [00:59:24][quake_champions](https://youtu.be/FIqAWTDzcPI?t=3564)| Quake Champions |
+| [01:08:23][shadow_of_the_colossus](https://youtu.be/FIqAWTDzcPI?t=4103)| Shadow of the Colossus |
+| [01:09:36][the_red_strinegs_club](https://youtu.be/FIqAWTDzcPI?t=4176)| The Red Strings Club |
+| [01:11:34][night_in_the_woods](https://youtu.be/FIqAWTDzcPI?t=4294)| Night in the Woods |
+| [01:17:35][soodne](https://youtu.be/FIqAWTDzcPI?t=4655)| Soodsad mängud |
+| [01:33:33][outro](https://youtu.be/FIqAWTDzcPI?t=5613)| OUTRO |
+
+
+## #297 // 02/02/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:11][intro](https://youtu.be/yxsZam2iWOQ?t=11)| INTRO |
+| [00:09:41][uudised](https://youtu.be/yxsZam2iWOQ?t=581)| UUDISED |
+| [00:09:52][rdr_2](https://youtu.be/yxsZam2iWOQ?t=592)| Red Dead Redemption 2 lükati edasi |
+| [00:11:34][anthem](https://youtu.be/yxsZam2iWOQ?t=694)| Anthem lükati edasi  |
+| [00:14:17][switch](https://youtu.be/yxsZam2iWOQ?t=857)| Nintendo Switchi müük |
+| [00:15:43][mario_kart_tour](https://youtu.be/yxsZam2iWOQ?t=943)| Mario Kart Tour tuleb telefonidele |
+| [00:18:38][switch](https://youtu.be/yxsZam2iWOQ?t=1118)| Switch online |
+| [00:21:47][star_wars_bf2](https://youtu.be/yxsZam2iWOQ?t=1307)| Star Wars Battlefront 2-te tulevad mikromaksed tagasi |
+| [00:27:37][onrush](https://youtu.be/yxsZam2iWOQ?t=1657)| OnRush |
+| [00:30:28][microsoft](https://youtu.be/yxsZam2iWOQ?t=1828)| Microsoft soovib osta stuudioid |
+| [00:37:05][paragon](https://youtu.be/yxsZam2iWOQ?t=2225)| Paragon pannakse kinni |
+| [00:42:07][uued_mängud](https://youtu.be/yxsZam2iWOQ?t=2527)| Uued mängud |
+| [00:46:42][mängud](https://youtu.be/yxsZam2iWOQ?t=2802)| MÄNGUD |
+| [00:46:52][shadow_of_the_colossus](https://youtu.be/yxsZam2iWOQ?t=2812)| Shadow of the Colossus |
+| [00:59:52][nuclear_throne](https://youtu.be/yxsZam2iWOQ?t=3592)| Nuclear Throne |
+| [01:03:59][mario](https://youtu.be/yxsZam2iWOQ?t=3839)| Mario 1 |
+| [01:05:21][evil_within_2](https://youtu.be/yxsZam2iWOQ?t=3921)| Evil Within 2 |
+| [01:08:39][soodne](https://youtu.be/yxsZam2iWOQ?t=4119)| Soodsad mängud |
+| [01:16:55][outro](https://youtu.be/yxsZam2iWOQ?t=4615)| OUTRO |
+
+
+## #296 // 26/01/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:11][intro](https://youtu.be/e-6OYqq828M?t=11)| INTRO |
+| [00:04:27][uudised](https://youtu.be/e-6OYqq828M?t=267)| UUDISED |
+| [00:04:38][gamepass](https://youtu.be/e-6OYqq828M?t=278)| Microsoft Gamepass |
+| [00:21:09][gow](https://youtu.be/e-6OYqq828M?t=1269)| God of War |
+| [00:24:58][sam](https://youtu.be/e-6OYqq828M?t=1498)| Ubisofti samSam |
+| [00:28:18][ps4](https://youtu.be/e-6OYqq828M?t=1698)| PS4 on lahti häkitud |
+| [00:32:42][atari](https://youtu.be/e-6OYqq828M?t=1962)| Atari rollercoaster |
+| [00:35:48][mängud](https://youtu.be/e-6OYqq828M?t=2148)| MÄNGUD |
+| [00:36:01][grand_turismo](https://youtu.be/e-6OYqq828M?t=2161)| Grand Turismo Sport |
+| [00:38:33][re_7](https://youtu.be/e-6OYqq828M?t=2313)| Resident Evil 7 |
+| [00:43:43][evil_within_2](https://youtu.be/e-6OYqq828M?t=2623)| Evil Within 2 |
+| [00:50:32][they_are_billions](https://youtu.be/e-6OYqq828M?t=3032)| They are Billions |
+| [01:01:13][pubg](https://youtu.be/e-6OYqq828M?t=3673)| PUBG |
+| [01:04:14][snes_mini](https://youtu.be/e-6OYqq828M?t=3854)| Nintendo SNES Mini |
+| [01:08:36][psycho_pass](https://youtu.be/e-6OYqq828M?t=4116)| Psycho Pass Mandatory Happiness |
+| [01:11:19][soodne](https://youtu.be/e-6OYqq828M?t=4279)| Soodsad mängud |
+| [01:17:12][outro](https://youtu.be/e-6OYqq828M?t=4632)| OUTRO |
+
+
+## #295 // 19/01/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:14][intro](https://youtu.be/xCWnqiox8UI?t=14)| INTRO |
+| [00:05:48][uudised](https://youtu.be/xCWnqiox8UI?t=348)| UUDISED |
+| [00:05:58][youtube](https://youtu.be/xCWnqiox8UI?t=358)| Youtube uued reeglid |
+| [00:10:57][labo](https://youtu.be/xCWnqiox8UI?t=657)| Nintendo Labo |
+| [00:23:10][kaevandamine](https://youtu.be/xCWnqiox8UI?t=1390)| Kaevandamine ja graafikakaartide hinnad |
+| [00:30:35][mängud](https://youtu.be/xCWnqiox8UI?t=1835)| MÄNGUD |
+| [00:30:45][they_are_billions](https://youtu.be/xCWnqiox8UI?t=1845)| They Are Billions |
+| [00:48:05][mg_survive](https://youtu.be/xCWnqiox8UI?t=2885)| Metal Gear Survive |
+| [00:53:35][altspace_vr](https://youtu.be/xCWnqiox8UI?t=3215)| Altspace VR |
+| [01:00:08][nintendo](https://youtu.be/xCWnqiox8UI?t=3608)| Nintendo SNES mini |
+| [01:07:35][never_stop_sneaking](https://youtu.be/xCWnqiox8UI?t=4055)| Never Stop Sneaking |
+| [01:08:50][re_7](https://youtu.be/xCWnqiox8UI?t=4130)| Resident Evil 7 |
+| [01:15:20][undertale](https://youtu.be/xCWnqiox8UI?t=4520)| Undertale |
+| [01:21:45][soodne](https://youtu.be/xCWnqiox8UI?t=4905)| Soodsad mängud |
+| [01:25:46][outro](https://youtu.be/xCWnqiox8UI?t=5146)| OUTRO |
+
+
+## #294 // 12/01/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:12][intro](https://youtu.be/kUwGbjoo1bc?t=12)| INTRO |
+| [00:07:25][uudised](https://youtu.be/kUwGbjoo1bc?t=445)| UUDISED |
+| [00:07:38][ces](https://youtu.be/kUwGbjoo1bc?t=458)| CES 2018 |
+| [00:22:39][uued_remasterid](https://youtu.be/kUwGbjoo1bc?t=1359)| Uued remasterid |
+| [00:30:39][cyberpunkt_2077](https://youtu.be/kUwGbjoo1bc?t=1839)| CyberPunk 2077 |
+| [00:33:16][total_war_three_kingdoms](https://youtu.be/kUwGbjoo1bc?t=1996)| Total War: THREE KINGDOMS |
+| [00:34:40][subnautica](https://youtu.be/kUwGbjoo1bc?t=2080)| Subnautica  |
+| [00:38:15][mängud](https://youtu.be/kUwGbjoo1bc?t=2295)| MÄNGUD |
+| [00:38:35][never_stop_sneaking](https://youtu.be/kUwGbjoo1bc?t=2315)| Never Stop Sneaking |
+| [00:43:50][evil_within_2](https://youtu.be/kUwGbjoo1bc?t=2630)| Evil Within 2 |
+| [00:46:44][one_two_switch](https://youtu.be/kUwGbjoo1bc?t=2804)| One Two Switch |
+| [00:50:32][mario_kart](https://youtu.be/kUwGbjoo1bc?t=3032)| Mario Kart |
+| [00:56:46][pubg](https://youtu.be/kUwGbjoo1bc?t=3406)| PUBG |
+| [01:03:44][nuclear_throne](https://youtu.be/kUwGbjoo1bc?t=3824)| Nuclear Throne |
+| [01:05:21][soodne](https://youtu.be/kUwGbjoo1bc?t=3921)| Soodsad mängud |
+| [01:10:41][outro](https://youtu.be/kUwGbjoo1bc?t=4241)| OUTRO |
+
+
+## #293 // 05/01/2018
+| aeg | teema |
+|-----|-------|
+| [00:00:10][intro](https://youtu.be/9y3jpMRCM5Q?t=10)| INTRO |
+| [00:05:53][ootused](https://youtu.be/9y3jpMRCM5Q?t=353)| 2018 aasta ootused |
+| [00:52:25][uudised](https://youtu.be/9y3jpMRCM5Q?t=3145)| UUDISED |
+| [00:52:43][intel](https://youtu.be/9y3jpMRCM5Q?t=3163)| Inteli protsessorid |
+| [00:56:50][kinect](https://youtu.be/9y3jpMRCM5Q?t=3410)| Kinect on surnud |
+| [01:00:02][platinum](https://youtu.be/9y3jpMRCM5Q?t=3602)| Platinumi uued IP-d |
+| [01:01:07][mängud](https://youtu.be/9y3jpMRCM5Q?t=3667)| MÄNGUD  |
+| [01:01:16][evil_within_2](https://youtu.be/9y3jpMRCM5Q?t=3676)| Evil Within 2 |
+| [01:09:40][super_mario_vs](https://youtu.be/9y3jpMRCM5Q?t=4180)| Super Mario vs |
+| [01:11:13][re_7](https://youtu.be/9y3jpMRCM5Q?t=4273)| Resident Evil 7 |
+| [01:16:47][nirvana_pilot_yume](https://youtu.be/9y3jpMRCM5Q?t=4607)| Nirvana Pilot Yume |
+| [01:22:38][soodne](https://youtu.be/9y3jpMRCM5Q?t=4958)| Soodsad mängud |
+| [01:25:31][outro](https://youtu.be/9y3jpMRCM5Q?t=5131)| OUTRO |
+
+
+## #292 // 29/12/2017
+| aeg | teema |
+|-----|-------|
+| [00:00:14][intro](https://youtu.be/qAmXlqjYpOY?t=14)| INTRO |
+| [00:04:28][divinity_original_sin_2](https://youtu.be/qAmXlqjYpOY?t=268)| Divinity: Original Sin 2 |
+| [00:05:43][pubg](https://youtu.be/qAmXlqjYpOY?t=343)| PUBG |
+| [00:13:00][2017_kokkuvõte](https://youtu.be/qAmXlqjYpOY?t=780)| 2017 aasta kokkuvõte |
+| [00:28:35][sony_microsoft](https://youtu.be/qAmXlqjYpOY?t=1715)| Sony vs Microsoft |
+| [00:17:00][pubg](https://youtu.be/qAmXlqjYpOY?t=1020)| Mängud, mis PUBG ära tappis |
+| [00:26:40][ea](https://youtu.be/qAmXlqjYpOY?t=1600)| EA |
+| [00:33:26][ubisoft](https://youtu.be/qAmXlqjYpOY?t=2006)| Ubisoft |
+| [00:37:12][nintendo](https://youtu.be/qAmXlqjYpOY?t=2232)| Nintendo |
+| [00:39:21][the_long_dark](https://youtu.be/qAmXlqjYpOY?t=2361)| The Long Dark |
+| [00:40:24][telltale_games](https://youtu.be/qAmXlqjYpOY?t=2424)| Telltale Games |
+| [00:41:00][vr](https://youtu.be/qAmXlqjYpOY?t=2460)| VR |
+| [00:50:42][soodsad_mängud](https://youtu.be/qAmXlqjYpOY?t=3042)| Mängude soodusmüügid |
+| [00:52:50][battle_royale](https://youtu.be/qAmXlqjYpOY?t=3170)| Battleroyale |
+| [01:00:01][eesti_mängud](https://youtu.be/qAmXlqjYpOY?t=3601)| Eesti mängud |
+| [01:04:11][eesti_inimesed](https://youtu.be/qAmXlqjYpOY?t=3851)| Eesti inimeste lemmikmängud 2017 |
+| [01:20:40][top_3+1](https://youtu.be/qAmXlqjYpOY?t=4840)| Saatejuhtide top 3+1 |
+| [02:22:32][outro](https://youtu.be/qAmXlqjYpOY?t=8552)| OUTRO |
+
+
+## #291 // 15/12/2017
+| aeg | teema |
+|-----|-------|
+| [00:00:11][intro](https://youtu.be/H9xzx6kw3C0?t=11)| INTRO |
+| [00:08:06][uudised](https://youtu.be/H9xzx6kw3C0?t=486)| UUDISED |
+| [00:08:16][tga](https://youtu.be/H9xzx6kw3C0?t=496)| The Game Awards |
+| [00:30:30][stationeers](https://youtu.be/H9xzx6kw3C0?t=1830)| Stationeers |
+| [00:30:49][lis_before_the_storm](https://youtu.be/H9xzx6kw3C0?t=1849)| Life Is Strange: Before the Storm |
+| [00:32:21][mängud](https://youtu.be/H9xzx6kw3C0?t=1941)| MÄNGUD |
+| [00:32:31][super_mario_odyssey](https://youtu.be/H9xzx6kw3C0?t=1951)| Super Mario Odyssey |
+| [00:37:48][pubg_fortnite](https://youtu.be/H9xzx6kw3C0?t=2268)| PUGG vs Fortnite |
+| [00:56:23][wolfenstein_2](https://youtu.be/H9xzx6kw3C0?t=3383)| Wolfenstein II: The New Colossus |
+| [00:59:50][human_resource_machine](https://youtu.be/H9xzx6kw3C0?t=3590)| Human Resource Machine |
+| [01:03:48][soodne](https://youtu.be/H9xzx6kw3C0?t=3828)| Soodsad mängud |
+| [01:08:54][outro](https://youtu.be/H9xzx6kw3C0?t=4134)| OUTRO |
+
+## #290 // 08/12/2017
+| aeg | teema |
+|-----|-------|
+| [00:00:16][intro](https://youtu.be/yFVDKt0DVYU?t=16)| INTRO |
+| [00:04:30][külaline](https://youtu.be/yFVDKt0DVYU?t=270)| KÜLALINE |
+| [00:04:40][vr_eestis](https://youtu.be/yFVDKt0DVYU?t=280)| Kuidas on teha Eestis VR mängu? - Kaaren Kaer |
+| [00:45:40][uudised](https://youtu.be/yFVDKt0DVYU?t=2740)| UUDISED |
+| [00:45:50][superhot](https://youtu.be/yFVDKt0DVYU?t=2750)| Superhot lisapakk |
+| [00:47:46][ps](https://youtu.be/yFVDKt0DVYU?t=2866)| PSi numbrid |
+| [00:49:37][rise_of_the_tomb_rider](https://youtu.be/yFVDKt0DVYU?t=2977)| Rise of The Tomb Rider VR PC-le |
+| [00:51:26][interaktiivne_teleserjaal](https://youtu.be/yFVDKt0DVYU?t=3086)| Her Story tegija interaktiivne teleserjaal |
+| [00:52:50][pubg](https://youtu.be/yFVDKt0DVYU?t=3170)| PUBGi uudised |
+| [00:55:12][dying_light](https://youtu.be/yFVDKt0DVYU?t=3312)| Dying Light Battle Royale |
+| [00:56:59][nintendo](https://youtu.be/yFVDKt0DVYU?t=3419)| Nintendo uudised |
+| [00:57:46][edasi_lükatud](https://youtu.be/yFVDKt0DVYU?t=3466)| Edasi lükatud mängud |
+| [00:59:08][megaman_11](https://youtu.be/yFVDKt0DVYU?t=3548)| Megaman 11 |
+| [00:59:30][steam](https://youtu.be/yFVDKt0DVYU?t=3570)| Steamis ei saa bitcoiniga maksta |
+| [01:01:33][oculus](https://youtu.be/yFVDKt0DVYU?t=3693)| Oculuse süsteemiuuendus |
+| [01:04:14][gta_v](https://youtu.be/yFVDKt0DVYU?t=3854)| GTA V saab uue Heist'i |
+| [01:07:08][mängud](https://youtu.be/yFVDKt0DVYU?t=4028)| MÄNGUD |
+| [01:07:17][reality_check](https://youtu.be/yFVDKt0DVYU?t=4037)| Reality Check konverent |
+| [01:09:47][doom_vfr](https://youtu.be/yFVDKt0DVYU?t=4187)| DOOM VFR |
+| [01:24:40][wolfenstein_2](https://youtu.be/yFVDKt0DVYU?t=5080)| Wolfenstein II |
+| [01:29:22][pode](https://youtu.be/yFVDKt0DVYU?t=5362)| Pode |
+| [01:31:07][fortnite](https://youtu.be/yFVDKt0DVYU?t=5467)| Fortnite |
+| [01:37:17][dst](https://youtu.be/yFVDKt0DVYU?t=5837)| Don't Starve Together: The Force |
+| [01:41:16][soodne](https://youtu.be/yFVDKt0DVYU?t=6076)| Soodsad mängud |
+| [01:45:03][outro](https://youtu.be/yFVDKt0DVYU?t=6303)| OUTRO |
+
+
+## #289 // 01/12/2017
+| aeg | teema |
+|-----|-------|
+| [00:00:25][intro](https://youtu.be/q4ClfXssCtI?t=25)| INTRO |
+| [00:06:06][uudised](https://youtu.be/q4ClfXssCtI?t=366)| UUDISED |
+| [00:06:17][x_files](https://youtu.be/q4ClfXssCtI?t=377)| X-Files mobiilidele |
+| [00:11:09][pubg](https://youtu.be/q4ClfXssCtI?t=669)| PUBG mobiilidele |
+| [00:14:57][mängude_muuseum](https://youtu.be/q4ClfXssCtI?t=897)| Mängude muuseum |
+| [00:17:33][jazz_jackrabbit](https://youtu.be/q4ClfXssCtI?t=1053)| Jazz Jackrabbit GOGis |
+| [00:19:22][marvel_heroes](https://youtu.be/q4ClfXssCtI?t=1162)| Marvel Heroes |
+| [00:22:20][pode](https://youtu.be/q4ClfXssCtI?t=1340)| Pode |
+| [00:24:29][vanad mängud](https://youtu.be/q4ClfXssCtI?t=1469)| Kuidas vanad mängud uuesti ägedaks muuta? |
+| [00:42:13][mängud](https://youtu.be/q4ClfXssCtI?t=2533)| MÄNGUD |
+| [00:42:23][wolfenstein_2](https://youtu.be/q4ClfXssCtI?t=2543)| Wolfenstein II |
+| [00:45:38][animal_crossing](https://youtu.be/q4ClfXssCtI?t=2738)| Animal Crossing: Pocket Camp |
+| [00:49:42][professor_layton](https://youtu.be/q4ClfXssCtI?t=2982)| Professor Layton and the Miracle Mask |
+| [00:59:34][soodne](https://youtu.be/q4ClfXssCtI?t=3574)| Soodsad mängud |
+| [01:04:41][outro](https://youtu.be/q4ClfXssCtI?t=3881)| OUTRO |
+
+
+## #288 // 24/11/2017
+| aeg | teema |
+|-----|-------|
+| [00:00:14][intro](https://youtu.be/ZCGuM7H6stA?t=14)| INTRO |
+| [00:11:09][uudise](https://youtu.be/ZCGuM7H6stA?t=669)| UUDISED |
+| [00:11:19][hasartkastid](https://youtu.be/ZCGuM7H6stA?t=679)| Battlefront II ja hasartkastid |
+| [00:20:57][grand_turismo](https://youtu.be/ZCGuM7H6stA?t=1257)| Grand Turismole tuleb SP |
+| [00:23:27][skyrim_vr](https://youtu.be/ZCGuM7H6stA?t=1407)| Skyrim VR |
+| [00:29:00][gamejam](https://youtu.be/ZCGuM7H6stA?t=1740)| GameJam Film Fellowship 2017 |
+| [00:30:32][the_sims_4](https://youtu.be/ZCGuM7H6stA?t=1832)| The Sims 4 tuli konsoolidele |
+| [00:33:21][la_noire](https://youtu.be/ZCGuM7H6stA?t=2001)| L.A. Noire |
+| [00:36:52][mängud](https://youtu.be/ZCGuM7H6stA?t=2212)| MÄNGUD |
+| [00:37:02][middle_earth_sow](https://youtu.be/ZCGuM7H6stA?t=2222)| Middle-earth: Shadow of War |
+| [00:45:40][ac_origins](https://youtu.be/ZCGuM7H6stA?t=2740)| Assassin's Creed Origins |
+| [00:52:51][west_of_loathing](https://youtu.be/ZCGuM7H6stA?t=3171)| West of Loathing |
+| [00:59:29][animal_crossing](https://youtu.be/ZCGuM7H6stA?t=3569)| Animal Crossing: Pocket Camp |
+| [01:02:08][yonder](https://youtu.be/ZCGuM7H6stA?t=3728)| Yonder: The Cloud Catcher Chronicles |
+| [01:04:08][hellblade](https://youtu.be/ZCGuM7H6stA?t=3848)| Hellblade: Senua's Sacrifice |
+| [01:06:01][wolfenstein_2](https://youtu.be/ZCGuM7H6stA?t=3961)| Wolfenstein II |
+| [01:10:28][super_mario_odyssey](https://youtu.be/ZCGuM7H6stA?t=4228)| Super Mario Odyssey |
+| [01:11:25][professor_layton](https://youtu.be/ZCGuM7H6stA?t=4285)| Professor Layton and the Miracle Mask |
+| [01:17:54][soodne](https://youtu.be/ZCGuM7H6stA?t=4674)| Soodsad mängud |
+| [01:25:54][outro](https://youtu.be/ZCGuM7H6stA?t=5154)| OUTRO |
+
+
+
 
 
 # 2014
