@@ -723,6 +723,7 @@
 | [01:11:51][soodne](https://youtu.be/_Do_a4VC7Nc?t=4311)| Soodsad mängud |
 | [01:18:11][outro](https://youtu.be/_Do_a4VC7Nc?t=4691)| OUTRO |
 
+
 ## #317 // 22/06/2018
 | aeg | teema |
 |-----|-------|
@@ -1113,13 +1114,6 @@
 | [01:02:58][uued_mängud](https://youtu.be/5YA7xti_C_s?t=3778)| Uued mängud |
 | [01:04:05][soodne](https://youtu.be/5YA7xti_C_s?t=3845)| Soodsad mängud |
 | [01:07:46][outro](https://youtu.be/5YA7xti_C_s?t=4066)| OUTRO |
-
-
-
-
-
-
-
 
 
 # 2014
